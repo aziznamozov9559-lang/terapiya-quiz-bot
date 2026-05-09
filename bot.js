@@ -42,13 +42,31 @@ function formatLeaderboard(scores, limit = 10) {
   });
 }
 
+// Guruhga e'lon xabari yuborish
+async function announceToGroup(chatId, playerName, score, leaderboard) {
+  try {
+    const medals = ['🥇','🥈','🥉'];
+    let text = `🏆 *Yangi rekord!*\n\n`;
+    text += `👤 *${playerName}* — *${score} ball* to'pladi!\n\n`;
+    text += `📊 *Guruh reytingi:*\n`;
+    leaderboard.slice(0, 5).forEach((p, i) => {
+      const m = medals[i] || `${i+1}.`;
+      const isWinner = p.name === playerName;
+      text += `${m} ${isWinner ? '*' : ''}${p.name}${isWinner ? '*' : ''} — ${p.score} ball\n`;
+    });
+    await bot.sendMessage(chatId, text, { parse_mode: 'Markdown' });
+  } catch (e) {
+    console.error('announceToGroup error:', e.message);
+  }
+}
+
 // ── COMMANDS ────────────────────────────────────────────────────────────────
 
 bot.onText(/\/start(@\S+)?$/, async (msg) => {
   const name = msg.from.first_name;
   if (msg.chat.type === 'private') {
     return bot.sendMessage(msg.chat.id,
-      `Salom, ${name}! 👋\n\n🏥 *Terapiya Quiz*\n\nGuruhda @${(await bot.getMe()).username} yozing — o'yin taklifi chiqadi!\n\nYoki guruhga /quiz yuboring.\n\n*Qoidalar:*\n❤️  3 ta jon\n⏱  10 soniya har savolga\n⚡  Ball = to'g'ri × qolgan soniya × 10\n🏆  Yangi rekord → guruhda e'lon!`,
+      `Salom, ${name}! 👋\n\n🏥 *Terapiya Quiz*\n\nGuruhga /quiz yuboring va o'ynang!\n\n*Qoidalar:*\n❤️  3 ta jon\n⏱  20 soniya har savolga\n⚡  Ball = to'g'ri × qolgan soniya × 10\n🏆  Yangi rekord → guruhda e'lon!`,
       { parse_mode: 'Markdown' }
     );
   }
@@ -75,7 +93,7 @@ bot.onText(/\/top(@\S+)?$/, async (msg) => {
 
 bot.onText(/\/help(@\S+)?$/, async (msg) => {
   bot.sendMessage(msg.chat.id,
-    `📖 *Qo'llanma*\n\n/quiz — O'yinni boshlash\n/top  — Guruh reytingini ko'rish\n\n*Qoidalar:*\n❤️  3 ta jon\n⏱  Har savolga 10 soniya\n⚡  Ball = to'g'ri × qolgan soniya × 10\n💀  Jonlar tugasa o'yin tugaydi\n🏆  Yangi rekord → Telegram guruhga xabar yuboradi!`,
+    `📖 *Qo'llanma*\n\n/quiz — O'yinni boshlash\n/top  — Guruh reytingini ko'rish\n\n*Qoidalar:*\n❤️  3 ta jon\n⏱  Har savolga 20 soniya\n⚡  Ball = to'g'ri × qolgan soniya × 10\n💀  Jonlar tugasa o'yin tugaydi\n🏆  Yangi rekord → guruhda e'lon qilinadi!`,
     { parse_mode: 'Markdown' }
   );
 });
@@ -98,7 +116,7 @@ async function sendGameMessage(chatId) {
   } catch (e) { console.error('sendGame error:', e.message); }
 }
 
-// ── INLINE QUERY (guruhda @botname yozganda) ─────────────────────────────────
+// ── INLINE QUERY ─────────────────────────────────────────────────────────────
 
 bot.on('inline_query', async (query) => {
   try {
@@ -116,14 +134,14 @@ bot.on('callback_query', async (query) => {
   const chatId = query.message?.chat?.id;
   const msgId  = query.message?.message_id;
 
-  // Inline mode orqali kelgan (guruhda @bot yozib yuborilgan)
+  // Inline mode
   if (query.inline_message_id && query.game_short_name === GAME_SHORT_NAME) {
     const url = `${GAME_URL}?userId=${userId}&inlineMsgId=${encodeURIComponent(query.inline_message_id)}&name=${encodeURIComponent(name)}&chatId=inline`;
     await bot.answerCallbackQuery(query.id, { url });
     return;
   }
 
-  // Oddiy /quiz xabari orqali kelgan
+  // Oddiy o'yin
   if (query.game_short_name === GAME_SHORT_NAME) {
     if (chatId && msgId) {
       const chat = getOrCreateChat(chatId);
@@ -185,25 +203,35 @@ app.post('/api/scores', async (req, res) => {
   const mId      = msgId ? parseInt(msgId, 10) : null;
 
   let isNewRecord = false;
+  let leaderboard = [];
+
+  // Avvalgi ball
+  let prevScore = 0;
+  if (cId && mId) {
+    const chat = getOrCreateChat(cId);
+    if (mId)  chat.messageId  = mId;
+    if (name) chat.users[uId] = name;
+    try {
+      const prev = await fetchHighScores(cId, mId, uId);
+      const me   = prev.find(e => e.user.id === uId);
+      if (me) prevScore = me.score;
+    } catch(e) {}
+  }
 
   try {
     if (inlineMsgId) {
-      // Inline mode orqali o'ynagan
       await bot.setGameScore(uId, scoreInt, { inline_message_id: inlineMsgId, force: false });
+      isNewRecord = true;
     } else if (cId && mId) {
-      // Oddiy guruh xabari orqali
-      const chat = getOrCreateChat(cId);
-      if (mId)  chat.messageId  = mId;
-      if (name) chat.users[uId] = name;
       await bot.setGameScore(uId, scoreInt, { chat_id: cId, message_id: mId, force: false, disable_edit_message: false });
+      isNewRecord = true;
     }
-    isNewRecord = true;
   } catch (e) {
     if (e.response?.body?.error_code !== 400) console.error('setGameScore error:', e.message);
+    isNewRecord = false;
   }
 
-  // Leaderboard qaytarish
-  let leaderboard = [];
+  // Leaderboard olish
   if (cId && mId) {
     const chat  = sessions[cId];
     const users = chat ? Object.keys(chat.users) : [];
@@ -211,6 +239,11 @@ app.post('/api/scores', async (req, res) => {
       const raw = await fetchHighScores(cId, mId, users[0]);
       leaderboard = formatLeaderboard(raw);
     }
+  }
+
+  // Guruhga e'lon — faqat yangi rekord bo'lsa
+  if (isNewRecord && cId && scoreInt > prevScore && leaderboard.length) {
+    await announceToGroup(cId, name, scoreInt, leaderboard);
   }
 
   const myRank = leaderboard.findIndex(e => String(e.userId) === String(uId)) + 1;
