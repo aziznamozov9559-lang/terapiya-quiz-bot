@@ -1,0 +1,3184 @@
+[
+  {
+    "question": "Vеrlgоf kаsаlligini dаvоlаshdа qo`llаnilаdigаn dоri mоddаni aniqlang",
+    "options": [
+      "Аmidоpirin",
+      "Sulfаdеmizin",
+      "Diаkаrb",
+      "Trоmbаtsitаr mаssа"
+    ],
+    "correct": "Trоmbаtsitаr mаssа"
+  },
+  {
+    "question": "Аnеmiya bu ……",
+    "options": [
+      "Qоnda gemoglobin miqdоrining kаmаyishi",
+      "Qоn miqdоrining оshishi",
+      "Qоngа infеksiya tushishi",
+      "Qоn bоsimi оrtishi"
+    ],
+    "correct": "Qоnda gemoglobin miqdоrining kаmаyishi"
+  },
+  {
+    "question": "Tеmir tаnqisligigа xоs klinik bеlgi :",
+    "options": [
+      "Gipеrtеrmiya",
+      "Dizuriya",
+      "T`аm sеzgisining buzilishi",
+      "Bеl оg`rishi"
+    ],
+    "correct": "T`аm sеzgisining buzilishi"
+  },
+  {
+    "question": "O`tkir lеykоzdа kuzаtilаdi:",
+    "options": [
+      "Limfа tugunlаri kаttаlаshishi",
+      "Sоvuq qоtish",
+      "Hаrоrаt pаsаyishi",
+      "Ishtаhа оshishi"
+    ],
+    "correct": "Limfа tugunlаri kаttаlаshishi"
+  },
+  {
+    "question": "Gеmоfilliya bilаn xаstаlаngаn bеmоrlаr nimаdаn sаqlаnishi kеrаk",
+    "options": [
+      "Оvqаtlаnishdаn",
+      "Chеkishdаn",
+      "Shikаstlаnishdаn",
+      "Sеmirishdаn"
+    ],
+    "correct": "Shikаstlаnishdаn"
+  },
+  {
+    "question": "Anemiya kasalligi davosida qo’llaniladigan asosiy dori vositalar:",
+    "options": [
+      "Temir saqlovchi preparatlar",
+      "Oqsilli preparatlar",
+      "Yod saqlovchi preparatlar",
+      ".Brom saqlovchi preparatlar"
+    ],
+    "correct": "Temir saqlovchi preparatlar"
+  },
+  {
+    "question": "Qonning shaklli elementlarini ko’rsating:",
+    "options": [
+      "Eritroblast,qon plazmasi",
+      "Gemoglobin, limfoblast",
+      "Eritrosit, leykosit, trombosit",
+      "Qon plazmasi, bilirubin"
+    ],
+    "correct": "Eritrosit, leykosit, trombosit"
+  },
+  {
+    "question": "Temir etishmagan kamqonlik deganda qaysi kamqonlikni tushunasiz",
+    "options": [
+      "Gipoxrom",
+      "Gemolitik",
+      "Giperxrom",
+      "Talassemiya"
+    ],
+    "correct": "Gipoxrom"
+  },
+  {
+    "question": "Sog’lom erkaklarda gemoglobin miqdori qancha",
+    "options": [
+      "100-120 g/l",
+      "120-160 g/l",
+      "110-200 g/l",
+      "90-110 g/l"
+    ],
+    "correct": "120-160 g/l"
+  },
+  {
+    "question": "Sog’lom ayollarda gemoglobin miqdori qancha",
+    "options": [
+      "100-120 g/l",
+      "120-160 g/l",
+      "110-200 g/l",
+      "110-140 g/l"
+    ],
+    "correct": "110-140 g/l"
+  },
+  {
+    "question": "Sog’lom erkaklarda eritrositlar miqdori qancha",
+    "options": [
+      "4,5-5,5x1012/l",
+      "3,9-5x1012/l",
+      "4,0-5x1012/l",
+      "4,5-5x1012/l"
+    ],
+    "correct": "4,5-5x1012/l"
+  },
+  {
+    "question": "Surunkali temir yetishmasligi kamqonligini kelib chiqishiga asosiy sababni",
+    "options": [
+      "Doim bir xil ovqatlanish",
+      "Kalloriyasi kam ovqat yeyish",
+      "Surunkali qon yo’qotganda",
+      "Go’sht kam yeganda"
+    ],
+    "correct": "Surunkali qon yo’qotganda"
+  },
+  {
+    "question": "Qachon temir yetishmaslik kamqonlik kelib chiqadi",
+    "options": [
+      "Ko’p tuqqanda, ko’p emizganda",
+      "Surnkali zotiljamda",
+      ". Surunkali kolitda",
+      ". Surunkali piyelonefritda"
+    ],
+    "correct": "Ko’p tuqqanda, ko’p emizganda"
+  },
+  {
+    "question": "Temir yetishmaslik kamqonlik qaysi holatlarda ko’p uchraydi",
+    "options": [
+      "Temir moddasini o’zlashtirish buzilsa",
+      "Surunkali ich ketganda",
+      "O’pka silida",
+      ". Surunkali gepatitda"
+    ],
+    "correct": "Temir moddasini o’zlashtirish buzilsa"
+  },
+  {
+    "question": "Temir yetishmaslik kamqonlikda bemorning asosiy shikoyatlari qaysilar",
+    "options": [
+      "Milk qonashi, terilari ko’karishi",
+      "Ta’m va hid bilishni buzilishi",
+      "Hansirash, bosh aylanishi",
+      "Ko’p ovqat yeyish, ich ketishi"
+    ],
+    "correct": "Ta’m va hid bilishni buzilishi"
+  },
+  {
+    "question": "Temir yetishmaslik kamqonlikda bemorning umumiy ko’rinishi qanday",
+    "options": [
+      "Ozg’in, terisi nam, qorni kattalashgan",
+      "Semiz, terilariga qon quyilgan",
+      "Rangi oqargan, terisi quruq",
+      ". Rangi oqargan, terisiga toshmalar toshgan"
+    ],
+    "correct": "Rangi oqargan, terisi quruq"
+  },
+  {
+    "question": "Temir yetishmaslik kamqonlikda bemorda qanday o’zgarish kuzatiladi",
+    "options": [
+      "Limfa tugunlari katta, terisi oqargan",
+      "Terisiga qon kuyilgan, milkidan qon oqadi",
+      "Bemor hayajonlangan, ko’zlari cho’kkan",
+      "Tirnoqlari xira, notekis, botgan"
+    ],
+    "correct": "Tirnoqlari xira, notekis, botgan"
+  },
+  {
+    "question": "Surunkali temir yetishmaslik kamqonlikda terining holati",
+    "options": [
+      "Nam",
+      "Yog’langansimon",
+      "Quruqlashgan",
+      "Qizargan"
+    ],
+    "correct": "Quruqlashgan"
+  },
+  {
+    "question": "Surunkali temir yetishmaslik kamqonlikda tilning holati",
+    "options": [
+      "Qalinlashgan",
+      "Karash qoplagan",
+      "Yorilib ketgan",
+      "So’rg’ichlari yemirilgan"
+    ],
+    "correct": "So’rg’ichlari yemirilgan"
+  },
+  {
+    "question": "1 kunda organizmga qancha temir zarur bo’ladi",
+    "options": [
+      "1-1.5 mg",
+      "2-3 mg",
+      "5-7 mg",
+      "10-12 mg"
+    ],
+    "correct": "1-1.5 mg"
+  },
+  {
+    "question": "Surunkali temir yetishmaslik kamqonlikning og’ir darajasida qaysi dori",
+    "options": [
+      "Gemostimulin",
+      "Ferramid",
+      "Ferrum-lek",
+      "Temir sulfat"
+    ],
+    "correct": "Ferrum-lek"
+  },
+  {
+    "question": "Surunkali temir yetishmaslik kamqonligini oldini olish choralari",
+    "options": [
+      "Qon ketishni to’xtatish",
+      "Vitaminlar berib turish",
+      "Qon quyish",
+      "Gormonoterapiya o’tkazish"
+    ],
+    "correct": "Qon ketishni to’xtatish"
+  },
+  {
+    "question": "Eritrotsitlarning o’rtacha yashash muddati",
+    "options": [
+      "56 kun",
+      "9 kun",
+      "300 kun",
+      "120 kun"
+    ],
+    "correct": "120 kun"
+  },
+  {
+    "question": "Surunkali aleykemik leykozda davolash usuli qanday",
+    "options": [
+      "VAMP-terapiya",
+      "Prednizolon, Onkovin",
+      "Prednizolon, 6-merkaptopurin",
+      ". Miyelosan, vinkristin, onkovin"
+    ],
+    "correct": "Prednizolon, 6-merkaptopurin"
+  },
+  {
+    "question": "Surunkali leykozning terminal davrida qaysi a’zolar qon ishlab chiqaradi",
+    "options": [
+      "Suyak ko’migi",
+      "Taloq",
+      "Jigar",
+      "Yuqoridagilarni hammasi"
+    ],
+    "correct": "Yuqoridagilarni hammasi"
+  },
+  {
+    "question": "Surunkali miyeloleykozni davolashda qo’llaniladigan asosiy dori qaysi",
+    "options": [
+      "Miyelosan",
+      "Prednizolon",
+      "Delagil",
+      "Sinkofen"
+    ],
+    "correct": "Miyelosan"
+  },
+  {
+    "question": "Gemorragik vaskulit tashxisining kriteriylari:",
+    "options": [
+      "Qon ivishi uzaygan",
+      "Qon ivish sistemasida o’zgarishlar yo’q",
+      "Trombotsitlar soni kamaygan",
+      "Qon ketish vaqti uzaygan"
+    ],
+    "correct": "Qon ivish sistemasida o’zgarishlar yo’q"
+  },
+  {
+    "question": "Gemorragik vaskulitda laborator o’zgarishlarni ko’rsating",
+    "options": [
+      "Trombotsitlarning soni normada",
+      "Trombotsitlar soni kamaygan",
+      "Pantsitoz",
+      "Pantsitopeniya"
+    ],
+    "correct": "Trombotsitlarning soni normada"
+  },
+  {
+    "question": "Gemorragik vaskulitga qaysi diagnostic belgi xarakterli hisoblanadi",
+    "options": [
+      "Qon ivish vaqtini uzayishi",
+      "Trombotsitlar soni kamayib ketishi",
+      "Tomirlar devoir o’tkazuvchanligining ortib ketishi",
+      "Qon ivish vaqti o’zgarmagan"
+    ],
+    "correct": "Qon ivish vaqti o’zgarmagan"
+  },
+  {
+    "question": "Verlgoff kasalligi deganda nimani tushunasiz",
+    "options": [
+      "Har xil joylardan qon ketishi bilan kuzatiladigan holat",
+      "Periferik qonda trombotsitlar miqdorini kamayishi bilan kuzatiladigan holat",
+      "Periferik qonda trombotsitlar soni o’zgarmagan, lekin turli joylarda qon ketishi",
+      "Trombotsitlar funksiyasi buzilishi natijasida qon ketish bilan kuzatiladigan holat"
+    ],
+    "correct": "Periferik qonda trombotsitlar miqdorini kamayishi bilan kuzatiladigan holat"
+  },
+  {
+    "question": "Verlgoff kasalligida gemorragik sindrom qanday namoyon bo’ladi",
+    "options": [
+      "Oshqozon – ichak traktidan qon ketishi",
+      "Bo’g’imlarga, chuqur teri ostiga qon quyilishi, gematomalar va shikastlanishdan",
+      "Milkdan, bachadondan qon ketish, teriga qon quyilishi, in’yeksiya qilingan",
+      "Shikastlanishdan so’ng yoki biror narsa bilan ta’sir ettirilgandan 2 soatdan keyin"
+    ],
+    "correct": "Milkdan, bachadondan qon ketish, teriga qon quyilishi, in’yeksiya qilingan"
+  },
+  {
+    "question": "Verlgoff kasalligida qanday tashxis mezonlari mos",
+    "options": [
+      "Gemoglobin, eritrotsitlar sonining kamayib ketishi, EChTning tezlashuvi,",
+      "Gemoglobin miqdori, eritrotsitlar, leykotsitlar soni va EChT o’zgarmagan,",
+      "Terida dog’li toshmalar, bo’g’imlarda qon quyilishi, mushaklararo gematoma",
+      "Terida, ko’z sklerasida, oyoqlarda mayda qizil toshmalar, harorati mo’tadil,"
+    ],
+    "correct": "Gemoglobin miqdori, eritrotsitlar, leykotsitlar soni va EChT o’zgarmagan,"
+  },
+  {
+    "question": "Gemofiliya kasalligiga qanday klinik belgilar xarakterli",
+    "options": [
+      "Milklardan qon ketish, teriga qon quyilish",
+      "Yirik bo’g’imlarga, teri ostiga, mushaklar orasiga, mushaklar ichiga qon",
+      "O’tkazilgan angina, gripp kasalligidan so’ng tanada toshmalar toshishi",
+      "Oshqozon-ichak traktidan qon ketish"
+    ],
+    "correct": "Yirik bo’g’imlarga, teri ostiga, mushaklar orasiga, mushaklar ichiga qon"
+  },
+  {
+    "question": "Qaysi gemorragik diatezda qon ivishi buziladi",
+    "options": [
+      "Gemofiliya",
+      "Shenleyn-Genox",
+      "anafilaktik shokda",
+      "Verlgof"
+    ],
+    "correct": "Gemofiliya"
+  },
+  {
+    "question": "Verl-Goff kasalligi bilan kimlar ko’proq og’riydi",
+    "options": [
+      "Qiz bolalar balog’at yoshiga o’tayotganda",
+      "O’g’il bolalar balog’at yoshiga o’tayotganda",
+      "O’rta yoshli ayollarda",
+      "Qariyalarda"
+    ],
+    "correct": "Qiz bolalar balog’at yoshiga o’tayotganda"
+  },
+  {
+    "question": "Verl-Goff kasalligi etiologiyasi bo’lib ko’proq qaysilar hisoblanadi",
+    "options": [
+      "Vitaminlar yetishmasligi",
+      "Irsiy omil",
+      "Temir yetishmasligi",
+      "Zaharlanish"
+    ],
+    "correct": "Irsiy omil"
+  },
+  {
+    "question": "Gemofiliya bilan kimlar ko’proq og’riydi",
+    "options": [
+      "O’smirlar",
+      "Qiz bolalar",
+      "O’g’il bolalar",
+      "Qariyalar"
+    ],
+    "correct": "O’g’il bolalar"
+  },
+  {
+    "question": "Gemofiliyaning kelib chiqish sababini aniqlang",
+    "options": [
+      "Infeksion kasalliklar",
+      "Parazitlar",
+      "Vitaminlar yetishmovchiligi",
+      "Irsiy omil"
+    ],
+    "correct": "Irsiy omil"
+  },
+  {
+    "question": "Me’da osti bezining insulin ishlab chiqarish funksiyasi buzilishi bilan",
+    "options": [
+      "Qandli diabet",
+      "Qandsiz diabet",
+      "Pankreatit",
+      "Gastrit"
+    ],
+    "correct": "Qandli diabet"
+  },
+  {
+    "question": "Normada qondagi qand miqdori qancha",
+    "options": [
+      "5-6mm/l",
+      "3.3-5.5mm/l",
+      "5-10mm/l",
+      "3-8mm/l"
+    ],
+    "correct": "3.3-5.5mm/l"
+  },
+  {
+    "question": "Qandli diabet kasalligining belgilari qanday",
+    "options": [
+      "Tez charchash, uyqu buzilishi, sovqotish",
+      "Tez chanqash, ko’p suyuqlik ichish, poliuriya",
+      "Ko’p terlash, semirish, ich qotishi",
+      "Sovqotish, ich ketishi, terining quruqlashishi"
+    ],
+    "correct": "Tez chanqash, ko’p suyuqlik ichish, poliuriya"
+  },
+  {
+    "question": "Qalqonsimon bez nechta bo’lakdan iborat",
+    "options": [
+      "Ikkita]",
+      "Uchta",
+      "To’rtta",
+      "Bitta"
+    ],
+    "correct": "Ikkita]"
+  },
+  {
+    "question": "Qandli diabet kasalligining asoratini ko’rsating",
+    "options": [
+      "Polidipsiya",
+      "Anoreksiya",
+      "Dizuriya",
+      "Gipoglikemik koma.]"
+    ],
+    "correct": "Gipoglikemik koma.]"
+  },
+  {
+    "question": "Qandli diabet kasalligining asoratini ko’rsating",
+    "options": [
+      "Poliuriya",
+      "Glukozuriya",
+      "Giperglikemik koma",
+      "Ketonuriya"
+    ],
+    "correct": "Giperglikemik koma"
+  },
+  {
+    "question": "Gormon qayerda ishlab chiqariladi",
+    "options": [
+      "Jigar, muskullar, miya, buyraklarda",
+      "Yurak, biriktiruvchi to’qimada",
+      "Ichki sekretsiya bezlarida",
+      "Suyak ko’migi, taloqda"
+    ],
+    "correct": "Ichki sekretsiya bezlarida"
+  },
+  {
+    "question": "Og’iz qurishi, tez-tez chanqash, ko’p suyuqlik ichish, poliuriya qaysi",
+    "options": [
+      "Qandli diabet",
+      "Gipertireoz",
+      "Gipotireoz",
+      "Diabetik koma"
+    ],
+    "correct": "Qandli diabet"
+  },
+  {
+    "question": "Bemor xushsiz, terisi quruq, og’zidan atseton xidi keladi. Sizning",
+    "options": [
+      "Qandli diabet",
+      "Gipertireoz",
+      "Gipotireoz",
+      "Diabetik koma"
+    ],
+    "correct": "Diabetik koma"
+  },
+  {
+    "question": "Qonda qand miqdori oshishi nima deyiladi",
+    "options": [
+      "Giperglikemiya",
+      "Gipoglikemiya",
+      "Glyukozuriya",
+      "Poliuriya"
+    ],
+    "correct": "Giperglikemiya"
+  },
+  {
+    "question": "Qonda qand miqdori kamayishi nima deyiladi",
+    "options": [
+      "Giperglikemiya",
+      "Gipoglikemiya",
+      "Glyukozuriya",
+      "Poliuriya"
+    ],
+    "correct": "Gipoglikemiya"
+  },
+  {
+    "question": "Qand moddasining siydik bilan ajralishi nima deyiladi",
+    "options": [
+      "Giperglikemiya",
+      "Gipoglikemiya",
+      "Glyukozuriya",
+      "Poliuriya"
+    ],
+    "correct": "Glyukozuriya"
+  },
+  {
+    "question": "Siydik ajralishining ko’payishi nima deyiladi",
+    "options": [
+      "Giperglikemiya",
+      "Gipoglikemiya",
+      "Glyukozuriya",
+      "Poliuriya"
+    ],
+    "correct": "Poliuriya"
+  },
+  {
+    "question": "Insulin qanday shakllarda chiqariladi",
+    "options": [
+      "Tomchi dori, shamcha",
+      "Kapsula, tabletka, sirop",
+      "Tabletka, in’yeksiya;",
+      "Draje, shamcha"
+    ],
+    "correct": "Tabletka, in’yeksiya;"
+  },
+  {
+    "question": "Qandli diabetning necha xil turi bor",
+    "options": [
+      "3",
+      "5",
+      "1",
+      "2"
+    ],
+    "correct": "2"
+  },
+  {
+    "question": "Qandli diabet kasalligidagi asosiy davolash mezoni:",
+    "options": [
+      "Parxez",
+      "Antibiotiklar",
+      "Antigistaminlar",
+      "Diuretiklar"
+    ],
+    "correct": "Parxez"
+  },
+  {
+    "question": "Qandli diabet kasalligida nechanchi parhez stoli buyuriladi",
+    "options": [
+      "9-parhez stoli",
+      "5-parhez stoli",
+      "7-parhez stoli",
+      "1-parhez stoli"
+    ],
+    "correct": "9-parhez stoli"
+  },
+  {
+    "question": "Qalqonsimon bez kasalligiga kirmaydi:",
+    "options": [
+      "Qandli diabet",
+      "Miksedema",
+      "Toksik buqoq",
+      "Endemik buqoq"
+    ],
+    "correct": "Qandli diabet"
+  },
+  {
+    "question": "Insulin shipritsi hajmini toping",
+    "options": [
+      "1ml",
+      "2ml",
+      "5ml",
+      "10ml"
+    ],
+    "correct": "1ml"
+  },
+  {
+    "question": "1 TB insulin siydik bilan chiqadigan qandni necha grammga kamaytiradi",
+    "options": [
+      "5g",
+      "4g",
+      "2g",
+      "1g"
+    ],
+    "correct": "4g"
+  },
+  {
+    "question": "Qandli diabetga chalingan bemorlarga hamshira qanday ko’nikmalarni",
+    "options": [
+      "Sayr qilish tartibini",
+      "Hid bilan kiyinish qoidalarini",
+      "O’z holatini boshqarishni, insulin yuborish bo’yicha kundalik yuritishni]",
+      "Parxez uchun taomnoma tuzishni"
+    ],
+    "correct": "O’z holatini boshqarishni, insulin yuborish bo’yicha kundalik yuritishni]"
+  },
+  {
+    "question": "5ml li flakonlardagi insulinning bir millilitrida qancha TB bo’ladi",
+    "options": [
+      "10 TB",
+      "40 TB",
+      "25 TB",
+      "20 TB"
+    ],
+    "correct": "40 TB"
+  },
+  {
+    "question": "Allergik kasalliklarning asosiy klinik belgilarini ko’rsating",
+    "options": [
+      "Qon ketish",
+      "Terida toshmalar, qichishish, junjikish",
+      "Balg’am ajralishi bilan yo’tal",
+      "Yurak sohasida og’riq"
+    ],
+    "correct": "Terida toshmalar, qichishish, junjikish"
+  },
+  {
+    "question": "Tez yuzaga chiquvchi allergic reaktsiyaning klinikasini ko’rsating",
+    "options": [
+      "Anafilaktik shok",
+      "Zardob kasalligi",
+      "Allergik vaskulit",
+      "Trombotsitopeniya"
+    ],
+    "correct": "Anafilaktik shok"
+  },
+  {
+    "question": "Anafilaktik shokning klinik belgilarini ko’rsating",
+    "options": [
+      "Xushni yo’qotish, A/B pasayishi, petexial toshmalar",
+      "Urtikar toshmalar",
+      "Limfoadenopatiya",
+      "Gemolitik kamqonlik"
+    ],
+    "correct": "Xushni yo’qotish, A/B pasayishi, petexial toshmalar"
+  },
+  {
+    "question": "Qanday allergik javobni oqibati yomon bo’ladi",
+    "options": [
+      "Atopik bronxial astma",
+      "Eshakyemi",
+      "Kvinke shishi",
+      "Anafilaktik shok"
+    ],
+    "correct": "Anafilaktik shok"
+  },
+  {
+    "question": "Anafilaktik shokda o’limga sabab nima",
+    "options": [
+      "O’tkir nafas yetishmovchiligi",
+      "Oshqozondan qon ketishi",
+      "Tirishish sindromi",
+      "O’tkir yurak yetishmovchiligi"
+    ],
+    "correct": "O’tkir nafas yetishmovchiligi"
+  },
+  {
+    "question": "Allergik kasalliklarda ovqat ratsionidan qaysi mahsulotlar olib tashlanadi",
+    "options": [
+      "Olma, nok, behi",
+      "Qizil qalampir, dukkaklilar, tuzlamalar",
+      "Non, pishloq, sut",
+      "Go’sht mahsulotlari"
+    ],
+    "correct": "Qizil qalampir, dukkaklilar, tuzlamalar"
+  },
+  {
+    "question": "Qaysi mahsulotlar ovqat allergiyasini chaqirishi mumkin",
+    "options": [
+      "Go’sht, saryog’, pishloq",
+      "Non, sut, tvorg",
+      "Mosh, loviya, no’xot, yong’oq",
+      "Qatiq, murabbolar"
+    ],
+    "correct": "Mosh, loviya, no’xot, yong’oq"
+  },
+  {
+    "question": "Qaysi mahsulotlar ovqat allergiyasini chaqirishi mumkin",
+    "options": [
+      "Sitrus mevalar, tuxum, asal",
+      "Sabzi, turp, sholg’om",
+      "Olma, gilos",
+      "Non, kartoshka"
+    ],
+    "correct": "Sitrus mevalar, tuxum, asal"
+  },
+  {
+    "question": "Allergik reaksiyada qanday yordam ko’rsatiladi",
+    "options": [
+      "Metaboliklar beriladi",
+      "Glyukokortikoidlar yuboriladi",
+      "Antibiotiklar beriladi",
+      "Yurak glikozidlari beriladi"
+    ],
+    "correct": "Glyukokortikoidlar yuboriladi"
+  },
+  {
+    "question": "Rеvmаtizmning sаbаbi",
+    "options": [
+      "Pnеvmоkоkk",
+      "β-gеmоlitik strеptоkоkk",
+      "Stаfilоkоkk",
+      "Kоx tаyyoqchаsi"
+    ],
+    "correct": "β-gеmоlitik strеptоkоkk"
+  },
+  {
+    "question": "Revmatizm kasalligini davolashda qo‘llaniladigan preparat",
+    "options": [
+      "Antibiotik",
+      "Allaxol",
+      "Festal",
+      "amebrazol"
+    ],
+    "correct": "Antibiotik"
+  },
+  {
+    "question": "Qo’l kafti bog’imlarning ”Qush bo’yni” ko’rinishidagi qiyshayishi",
+    "options": [
+      "Deformatsiyalovchi osteoartrozda",
+      "Revmatik poliartritda",
+      "Revmatik artritda",
+      "Podagra"
+    ],
+    "correct": "Revmatik artritda"
+  },
+  {
+    "question": "Tamaki tarkibida qanday zararli modda bor",
+    "options": [
+      "Adrenalin",
+      "Nikotin",
+      "Eufilin",
+      "Tiroksin"
+    ],
+    "correct": "Nikotin"
+  },
+  {
+    "question": "Revmatizm kasalligida kuzatiladigan bo`g’imdagi o`zgarishlar",
+    "options": [
+      ".Ko`chib yuruvchi og’riqlar",
+      "Osteoporoz",
+      "Bo`g’im ustidagi terining ko`karishi",
+      ".Bo`g’imlar ankilozi"
+    ],
+    "correct": "Bo`g’im ustidagi terining ko`karishi"
+  },
+  {
+    "question": "Poliartrit nima",
+    "options": [
+      "Ko’p bo’g’imning yallig’lanishi",
+      "Bitta bo’g’imning yallig’lanishi",
+      "Bir necha bo’g’imning yallig’lanshi",
+      "Muskullarning yallig’lanishi"
+    ],
+    "correct": "Ko’p bo’g’imning yallig’lanishi"
+  },
+  {
+    "question": "Bitsillin – profilaktikasi qaysi kasallikda o’tkaziladi",
+    "options": [
+      "Yurak ishemik kasalligida",
+      "Revmatizmda",
+      "Gipertoniya kasalligida",
+      ".Miokardiodistrofiyada"
+    ],
+    "correct": "Revmatizmda"
+  },
+  {
+    "question": "Revmatizm rivojlanishiga ta'sir etuvchi xavfli omillar qaysilar",
+    "options": [
+      "Surunkali tonzillit",
+      "Ko‘p ovqat iste'mol qilish",
+      ".Kam harakatlik",
+      ".Stresslar"
+    ],
+    "correct": "Surunkali tonzillit"
+  },
+  {
+    "question": "Revmatizm rivojlanishiga ta'sir etuvchi xavfli omillar qaysilar",
+    "options": [
+      "Surunkali tonzillit",
+      ".Ko‘p ovqat iste'mol qilish",
+      "Kam harakatlik",
+      ".Stresslar"
+    ],
+    "correct": "Surunkali tonzillit"
+  },
+  {
+    "question": "Bo’g’ilish bu",
+    "options": [
+      "To’satdan paydo bo’lib, keskin ifodalanuvchi hansirash",
+      "Asta sekin yuzaga keluvchi hansirashlar",
+      "Birdaniga yuzaga keluvchi hansirashlar",
+      "Hushtaksimon eshitiladigan shovqinlar"
+    ],
+    "correct": "To’satdan paydo bo’lib, keskin ifodalanuvchi hansirash"
+  },
+  {
+    "question": "Kattalarda qonning umumiy hajmi o’rtacha hajmi necha litrni tashkil etadi",
+    "options": [
+      "3 litr",
+      "4 litr",
+      "6 litr",
+      "5 litr"
+    ],
+    "correct": "5 litr"
+  },
+  {
+    "question": "Kattalarda qon tana og’itligini necha foizini tashkil qiladi",
+    "options": [
+      "3-5%",
+      "5-6%",
+      "6-7.3%",
+      "7-8%"
+    ],
+    "correct": "6-7.3%"
+  },
+  {
+    "question": "Eritrotsitlar qayerda parchalanadi",
+    "options": [
+      "Taloqda",
+      "Jigarda",
+      "Suyak ko’migida",
+      "Limfotik tugunlarda"
+    ],
+    "correct": "Taloqda"
+  },
+  {
+    "question": "Trombotsitlarning vazifasi qanday",
+    "options": [
+      "Fagotsitoz qilish",
+      "Organizmga yot moddalardan himoya qilish",
+      "Qon ivishida ishtirok etish",
+      "Kislorod tashish"
+    ],
+    "correct": "Qon ivishida ishtirok etish"
+  },
+  {
+    "question": "Qonning shaklli elementlari keltirilgan qatorni toping",
+    "options": [
+      "Limfotsitlar, plazma, eritrotsitlar",
+      "Trombotsitlar, leykotsitlar, eritrotsitlar",
+      "Qon plazmasi, leykotsitlar, eritrotsitlar",
+      "Trombotsitlar, fibrinogenlar, eritrotsitlar"
+    ],
+    "correct": "Trombotsitlar, leykotsitlar, eritrotsitlar"
+  },
+  {
+    "question": "Qon organizmda qanday vazifalarni bajaradi",
+    "options": [
+      "Termoregulyatsiya, qonni tozalash",
+      "Oziq moddalarni organizmga so’rilishini ta’minlash",
+      "himoya, gumoral boshqarish, hazm qilish",
+      "Transport, ajratish, regulyator, himoya"
+    ],
+    "correct": "Transport, ajratish, regulyator, himoya"
+  },
+  {
+    "question": "Qon kasalliklarini o’rganadigan fan qanday nomlanadi",
+    "options": [
+      "Gerontologiya",
+      "Geriatriya",
+      "Gematologiya",
+      "Gigiyena"
+    ],
+    "correct": "Gematologiya"
+  },
+  {
+    "question": "Qon yo’qotish natijasida paydo bo’ladigan anemiya",
+    "options": [
+      "Postgemorragik anemiya",
+      "Temir tanqislik anemiya",
+      "Gemolitik anemiya",
+      "Gipoplastik anemiya"
+    ],
+    "correct": "Postgemorragik anemiya"
+  },
+  {
+    "question": "Anemiya qanday kasallik",
+    "options": [
+      "Oq qon tanachalarining kamayishi",
+      "Qizil qon tanachalari va gemoglobinning kamayishi",
+      "Yashirin qon ketish",
+      "Trombotsitlar miqdorining kamayishi"
+    ],
+    "correct": "Qizil qon tanachalari va gemoglobinning kamayishi"
+  },
+  {
+    "question": "Qon sistemasiga kiruvchi organlarni belgilang",
+    "options": [
+      "Jigar, suyak ko’migi, limfotik tugunlar, taloq",
+      "Yurak, taloq, buyrak",
+      "Taloq, suyak ko’migi, oshqozon osti bezi",
+      "Ingichka ichak, suyak ko’migi, buyrak"
+    ],
+    "correct": "Jigar, suyak ko’migi, limfotik tugunlar, taloq"
+  },
+  {
+    "question": "Eritrotsitlar qayerda ishlab chiqariladi",
+    "options": [
+      "Taloqda",
+      "Limfa tugunlarida",
+      "Qizil suyak ko’migida",
+      "Jigarda"
+    ],
+    "correct": "Qizil suyak ko’migida"
+  },
+  {
+    "question": "Leykotsitlar qayerda ishlab chiqariladi",
+    "options": [
+      "Qon plazmasida",
+      "Suyak ko’migida",
+      "Jigarda",
+      "Taloqda va limfatik tugunlarda"
+    ],
+    "correct": "Taloqda va limfatik tugunlarda"
+  },
+  {
+    "question": "Qon plazmasining necha foizi suvdan iborat",
+    "options": [
+      "90-93%",
+      "70-75%",
+      "75-80%",
+      "60%"
+    ],
+    "correct": "90-93%"
+  },
+  {
+    "question": "Qandli diabet sababi",
+    "options": [
+      "Ozg`inlik",
+      "Sovqotish",
+      "Chekish",
+      "Ruhiy zoriqish"
+    ],
+    "correct": "Ruhiy zoriqish"
+  },
+  {
+    "question": "ichki sekretsiya bezlari kasalliklarini qaysi fan o’rganadi",
+    "options": [
+      "Gematologiya",
+      "Endokrinologiya",
+      "Urologiya",
+      "Gerantologiya"
+    ],
+    "correct": "Endokrinologiya"
+  },
+  {
+    "question": "Insulin qilinadigan sohalarni ko’rsating",
+    "options": [
+      "Vena ichiga tomchilatib",
+      "Vena ichiga",
+      "Mushak orasiga",
+      "Qorin, elka, son terisiga"
+    ],
+    "correct": "Qorin, elka, son terisiga"
+  },
+  {
+    "question": "Eshakyemining klinik belgilari qanday",
+    "options": [
+      "Teridagi qavariq va qichishish",
+      "Teridagi angionevrotik shish",
+      "Eksfolliativ dermatit",
+      "Linfoadenopatiya"
+    ],
+    "correct": "Teridagi qavariq va qichishish"
+  },
+  {
+    "question": "O’tkir leykozda kuzatiladi:",
+    "options": [
+      "Limfa tugunlarini kattalashishi",
+      "Sovuq qotish",
+      "Harorat pasayishi",
+      "Ishtaha oshishi"
+    ],
+    "correct": "Limfa tugunlarini kattalashishi"
+  },
+  {
+    "question": "O’tkir leykoz qon tahlilida kuzatilmaydi",
+    "options": [
+      "Anemiya",
+      "Trombotsitopeniya",
+      "Leykotsitoz",
+      "Leykopeniya"
+    ],
+    "correct": "Leykotsitoz"
+  },
+  {
+    "question": "Qon kasalliklariga xos bo’lmagan belgi",
+    "options": [
+      "Milklar tez-tez qonashi",
+      "Suyakdagi og’riqlar",
+      "Limfa tugunlar kattalashishi",
+      "Kekirish"
+    ],
+    "correct": "Kekirish"
+  },
+  {
+    "question": "Leykozning qanday xillarini bilasiz",
+    "options": [
+      "O’tkir va surunkali",
+      "Birlamchi va ikkilamchi",
+      "Surunkali",
+      "Qaytalanuvchi"
+    ],
+    "correct": "O’tkir va surunkali"
+  },
+  {
+    "question": "Gemofiliya bilan xastalangan bemorlar nimadan saqlanishi kerak",
+    "options": [
+      "Ovqatlanishdan",
+      "Chekishdan",
+      "Shikastlanishdan",
+      "Semirishdan"
+    ],
+    "correct": "Shikastlanishdan"
+  },
+  {
+    "question": "Suyak ko’migini ko’chirib o’tkazish qaysi kasallikni xirurgik davosi:",
+    "options": [
+      "Leykoz",
+      "Trombositopeniya",
+      "Gemofiliya",
+      "Nekroz"
+    ],
+    "correct": "Leykoz"
+  },
+  {
+    "question": "Qandli diabet kasalligining oldini olish choralarini toping",
+    "options": [
+      "Issiq kiyinib yurish, tabiiy matodan tikilgan kiyimlar kiyish",
+      "To’yib ovqatlanish, sutkada 10-12 soat uxlash",
+      "Ratsional ovqatlanish, jismoniy aktivlik, semirishni oldini olish",
+      "Har kuni sayr qilish, jismoniy mehnatni cheklash"
+    ],
+    "correct": "Ratsional ovqatlanish, jismoniy aktivlik, semirishni oldini olish"
+  },
+  {
+    "question": "Qaysi kasallik bilan og’rigan bemorlar dispenser nazoratida turishlari",
+    "options": [
+      "O’tkir xoletsistit",
+      "Qandli diabet",
+      "Surunkali bronxit",
+      "Diffuz toksik buqoq"
+    ],
+    "correct": "Qandli diabet"
+  },
+  {
+    "question": "Qandli diabetga uchragan bemorlar yaralar paydo bo’lishini oldini olish",
+    "options": [
+      "Badan terisini to’g’ri parvarishlash, oyoqlar gigiyenasini o’tkazish",
+      "Kiyimlarni to’g’ri tanlash, mavsumga mos kiyinish",
+      "Ovqatlanish qoidalariga rioya qilish",
+      "Sog’lom turmush tarziga amal qilish"
+    ],
+    "correct": "Badan terisini to’g’ri parvarishlash, oyoqlar gigiyenasini o’tkazish"
+  },
+  {
+    "question": "Perkussiya tеkshirish usulini Аyebruggеr amaliyotga qachon kiritgan?",
+    "options": [
+      "1557yil",
+      "1761 yil",
+      "1671 yil",
+      "1991 yil"
+    ],
+    "correct": "1761 yil"
+  },
+  {
+    "question": "Perkussiya tеkshirish usulini amaliyotga kim 1-bo’lib tadbiq qilgan?",
+    "options": [
+      "Lаenеk",
+      "Esmаrh",
+      "Kussmаul",
+      "Аyebruggеr"
+    ],
+    "correct": "Аyebruggеr"
+  },
+  {
+    "question": "Subyektiv tekshiruv usuli bu …",
+    "options": [
+      "Auskultatsiya",
+      "Bemorni so’rab surishtirish",
+      "Ko’zdan kechirish",
+      "Palpatsiya"
+    ],
+    "correct": "Bemorni so’rab surishtirish"
+  },
+  {
+    "question": "Obyektiv tekshirish usullarini ko’rsating",
+    "options": [
+      "Auskultatsiya",
+      "Bronxografiya",
+      "Spirometriya",
+      "Tomografiya"
+    ],
+    "correct": "Auskultatsiya"
+  },
+  {
+    "question": "Ovoz titrashi qaysi tekshiruvi yordamida aniqlanadi?",
+    "options": [
+      "Auskultatsiya",
+      "Ko’zdan kechirish",
+      "Palpatsiya",
+      "Perkussiya"
+    ],
+    "correct": "Palpatsiya"
+  },
+  {
+    "question": "Qorin palatsiyasi o’tkazish uchun bemor qanday holatda yotgan bo’lishi",
+    "options": [
+      "Yostiqsiz yumshoq krovatda",
+      "Yumshoq krovatda, yostiq bilan",
+      "Yostiqsiz qattiq krovatda",
+      "Qattiq krovatda, yostiq bilan"
+    ],
+    "correct": "Yostiqsiz qattiq krovatda"
+  },
+  {
+    "question": "Etiologiya deganda nima tushuniladi?",
+    "options": [
+      "Kasallik kechishi",
+      "Kasallik avj olish mexanizmi",
+      "Kasallik klinikasi",
+      "Kasallik sababi"
+    ],
+    "correct": "Kasallik sababi"
+  },
+  {
+    "question": "Mushak ichi inyeksiyasi noto’g’ri bajarilganda qanday asoratlar kelib",
+    "options": [
+      "Havo emboliyasi",
+      "Absess",
+      "Flebit",
+      "Infiltrat"
+    ],
+    "correct": "Absess"
+  },
+  {
+    "question": "Rеtsidiv nimа?",
+    "options": [
+      "Kаsаllikning bеlgisi",
+      "Kаsаllikni qo`zishi",
+      "Kаsаllik sаbаbi",
+      "Kаsаllikning аsоrаti"
+    ],
+    "correct": "Kаsаllikni qo`zishi"
+  },
+  {
+    "question": "Remissiya nima?",
+    "options": [
+      "Kasallik belgilarining kamayishi",
+      "Kаsаllikni qo`zishi",
+      "Kаsаllik sаbаbi",
+      "Kаsаllikning аsоrаti"
+    ],
+    "correct": "Kasallik belgilarining kamayishi"
+  },
+  {
+    "question": "Perkussiya bu…",
+    "options": [
+      "Eshitib ko’rish",
+      "Paypaslab ko’rish",
+      "Tukillatib urib ko’rish",
+      "Ko’zdan kechirish"
+    ],
+    "correct": "Tukillatib urib ko’rish"
+  },
+  {
+    "question": "Subyektiv tekshirish usullari nechta?",
+    "options": [
+      "3 ta",
+      "4 ta",
+      "5 ta",
+      "6 ta"
+    ],
+    "correct": "4 ta"
+  },
+  {
+    "question": "Simptom deganda nima tushuniladi?",
+    "options": [
+      "Kasallik sababi",
+      "Kasallik rivojlanishi",
+      "Kasallik belgisi",
+      "Kasallik qo`zishi"
+    ],
+    "correct": "Kasallik belgisi"
+  },
+  {
+    "question": "Simptomlar yig’indisi bu…",
+    "options": [
+      "Patogenez",
+      "Etiologiya",
+      "Remissiya",
+      "Sindrom"
+    ],
+    "correct": "Sindrom"
+  },
+  {
+    "question": "Surunkali kasalliklarning qo’zishi nima deyiladi?",
+    "options": [
+      "Retsediv",
+      "Remissiya",
+      "Patogenez",
+      "Etiologiya"
+    ],
+    "correct": "Retsediv"
+  },
+  {
+    "question": "Kasallikni oldini olishga qaratilgan chora tadbirlarga nima deyiladi?",
+    "options": [
+      "Profilaktika",
+      "Dispanserizatsiya",
+      "Reabilitatsiya",
+      "Antropometriya"
+    ],
+    "correct": "Profilaktika"
+  },
+  {
+    "question": "Organ yoki to‘qimaning halok bo‘lishi nima deb ataladi?",
+    "options": [
+      "Gangrena",
+      "Ishemiya",
+      "Nekroz"
+    ],
+    "correct": "Nekroz"
+  },
+  {
+    "question": "Auskultatsiya bu…",
+    "options": [
+      "Urib ko’rish",
+      "Eshitib ko’rish",
+      "Paypaslab ko’rish",
+      "Ko’zdan kechirish"
+    ],
+    "correct": "Eshitib ko’rish"
+  },
+  {
+    "question": "Palpatsiya qanday turlarga bo’linadi?",
+    "options": [
+      "Ichki va tashqi",
+      "Orqa va oldingi",
+      "Yengil va og’ir",
+      "Yuza va chuqur"
+    ],
+    "correct": "Yuza va chuqur"
+  },
+  {
+    "question": "Sog’liqni qayta tiklashga qaratilgan chora tadbirlarga nima deyiladi?",
+    "options": [
+      "Profilaktika",
+      "Dispanserizatsiya",
+      "Reabilitatsiya",
+      "Antropometriya"
+    ],
+    "correct": "Reabilitatsiya"
+  },
+  {
+    "question": "Patologiya bu…?",
+    "options": [
+      "Organizmning kasallik holati to’g’risidagi fan",
+      "Organizmning normal holati to’g’risidagi fan",
+      "To’qima va hujayralarni o’rganuvchi fan",
+      "Mikroorganizmlarni o’rganuvchi fan"
+    ],
+    "correct": "Organizmning kasallik holati to’g’risidagi fan"
+  },
+  {
+    "question": "Plessimetr so’zi lotinchada qanday tarjima qilinadi?",
+    "options": [
+      "Kamerton",
+      "Pinset",
+      "Bolg’acha",
+      "Igna"
+    ],
+    "correct": "Bolg’acha"
+  },
+  {
+    "question": "Kasallikning avj olish mexanizmi nima deb ataladi?",
+    "options": [
+      "Retsediv",
+      "Remissiya",
+      "Patogenez",
+      "Etiologiya"
+    ],
+    "correct": "Patogenez"
+  },
+  {
+    "question": "Barmoq yostiqchalari orqali terini paypaslab tekshirish qanday tekshirish",
+    "options": [
+      "Auskultatsiya",
+      "Ko’zdan kechirish",
+      "Palpatsiya",
+      "Perkussiya"
+    ],
+    "correct": "Palpatsiya"
+  },
+  {
+    "question": "Auskultatsiya tekshiruvi qanday asboblar yordamida o’tkaziladi?",
+    "options": [
+      "Nevrologik bolg’acha",
+      "Tanometr, termometr",
+      "Pulsoksimetr, stetoskop",
+      "Stetoskop, fonendoskop"
+    ],
+    "correct": "Stetoskop, fonendoskop"
+  },
+  {
+    "question": "Qorin palpatsiyasini o’tkazish qaysi sohadan boshlanadi?",
+    "options": [
+      "Sigmasimon ichak sohasidan",
+      "Kindik atrofidan",
+      "Epigastral sohadan",
+      "Chuvalchangsimon o’simta sohasidan"
+    ],
+    "correct": "Sigmasimon ichak sohasidan"
+  },
+  {
+    "question": "Qorinning yuza palpatsiyasini o’tkazish texnikasi tog’ri ko’rsatilgan",
+    "options": [
+      "Qorin tashqi yuzasidan ichki yuzasiga qarab, soat strelkasiga bo’ylab",
+      "Qorin tashqi yuzasidan ichki yuzasiga qarab, soat strelkasiga teskari",
+      "Qorin ichki yuzasidan tashqi yuzasiga qarab, soat strelkasiga bo’ylab",
+      "Qorin ichki yuzasidan tashqi yuzasiga qarab, soat strelkasiga teskari"
+    ],
+    "correct": "Qorin tashqi yuzasidan ichki yuzasiga qarab, soat strelkasiga teskari"
+  },
+  {
+    "question": "Kasallikning keltirib chiqaruvchi sababi nima deb ataladi?",
+    "options": [
+      "Retsediv",
+      "Remissiya",
+      "Potogenez",
+      "Etiologiya"
+    ],
+    "correct": "Etiologiya"
+  },
+  {
+    "question": "Adaptatsiya bu …",
+    "options": [
+      "Organizmning tashqi muhitga moslashuvchanligi",
+      "Organizm ichki muhitining doimiyligi",
+      "Organizmning tashqi muhit reaksiyalariga javobi",
+      "Organizmning ichki muhiti o’zgaruvchanligi"
+    ],
+    "correct": "Organizmning tashqi muhitga moslashuvchanligi"
+  },
+  {
+    "question": "Kasallik belgilarining kamayishi bu…",
+    "options": [
+      "Remissiya",
+      "Retsidiv",
+      "Regeneratsiya",
+      "Reabilitatsiya"
+    ],
+    "correct": "Remissiya"
+  },
+  {
+    "question": "Profilaktika deb nimaga aytiladi?",
+    "options": [
+      "Kasallikdan so’ng salomatlikni qayta tiklash",
+      "Kasallikni oldini olish",
+      "Kasallik sababini aniqlash",
+      "Kasallik holatiga baho berish"
+    ],
+    "correct": "Kasallikni oldini olish"
+  },
+  {
+    "question": "Normada o`pkani tukillatib urib ko`rganda qanday tovush eshitiladi?",
+    "options": [
+      "To`mtoq tovush",
+      "Quticha tovush",
+      "Timpanik tovush",
+      "Aniq o`pka tovushi"
+    ],
+    "correct": "Aniq o`pka tovushi"
+  },
+  {
+    "question": "Normadagi o`pkani auskultatsiya qilganda qanday tovush eshitiladi?",
+    "options": [
+      "Plevraning ishqalanish tovushi",
+      "Krepitatsiya",
+      "Vezikulyar tovush",
+      "Bronxial tovush"
+    ],
+    "correct": "Vezikulyar tovush"
+  },
+  {
+    "question": "Nаfаs оlish аzоlаri kаsаlliklаrining umumiy bеlgilаrini ko’rsating",
+    "options": [
+      "Yo’tаl, bаlg’аm tаshlаsh, qоn tuflаsh, hаnsirаsh, ko’krаk qаfаsidа оg’riq, isitmа",
+      "Ko’krаk qаfаsidа оg’riq, qоn tuflаsh, isitmа",
+      "Isitmа, yutinishning qiyinlаshuvi, qоn tuflаsh",
+      "Hаnsirаsh, оyoqlаrdа shish, ko’krаk qаfаsidа vа yirik bo’g’imlаrdа оg’riq"
+    ],
+    "correct": "Yo’tаl, bаlg’аm tаshlаsh, qоn tuflаsh, hаnsirаsh, ko’krаk qаfаsidа оg’riq, isitmа"
+  },
+  {
+    "question": "O’pkaning pastki yuzasi ko’krak bilan qorin o’rtasidagi to’siq bu…",
+    "options": [
+      "Plevra varog’i",
+      "Diafragma",
+      "Ko’ks oralig’i",
+      "Perikard"
+    ],
+    "correct": "Diafragma"
+  },
+  {
+    "question": "Bemorlardan kasallik haqidagi ma’lumotlarni aniqlash nima deb ataladi?",
+    "options": [
+      "Anamnezis morbid",
+      "Anamnezis vitae",
+      "Status prezens",
+      "Ambulatoria"
+    ],
+    "correct": "Anamnezis morbid"
+  },
+  {
+    "question": "Bemorlarning turmush tarzi, oilasi, boshdan kechirgan kasalliklari haqidagi",
+    "options": [
+      "Anamnezis morbid",
+      "Anamnezis vitae",
+      "Status prezense",
+      "Ambulatoriya"
+    ],
+    "correct": "Anamnezis vitae"
+  },
+  {
+    "question": "Barmoqlar yordamida tukillatib urib ko’rish orqali tekshirish usuli nima",
+    "options": [
+      "Auskultatsiya",
+      "Ko’zdan kechirish",
+      "Palpatsiya",
+      "Perkussiya"
+    ],
+    "correct": "Perkussiya"
+  },
+  {
+    "question": "Perkussiyada nimalar aniqlanadi?",
+    "options": [
+      "A’zolar zichligi va chegarasi",
+      "A’zolardan chiqayotgan tovush",
+      "O’pkaning tiriklik sig’imi",
+      "Shish va o’smasimon hosilalar"
+    ],
+    "correct": "A’zolar zichligi va chegarasi"
+  },
+  {
+    "question": "Auskultatsiyaning qanday turlari bor?",
+    "options": [
+      "Yuza va chuqur",
+      "Bevosita va bilvosita",
+      "Aniq va bo’g’iq",
+      "Birlamchi va ikkilamchi"
+    ],
+    "correct": "Bevosita va bilvosita"
+  },
+  {
+    "question": "To’satdan paydo bo’lib, keskin ifodalanadigan hansirash nima deyiladi?",
+    "options": [
+      "Bo’g’ilish",
+      "Yo’tal",
+      "Hansirash",
+      "Astma"
+    ],
+    "correct": "Bo’g’ilish"
+  },
+  {
+    "question": "Ko’krak qafasi kalta, hamma yo’nalishlari ayniqsa orqa, yon bo’limlari",
+    "options": [
+      "Paralitik",
+      "Emfizematoz",
+      "Raxitik",
+      "Voronkasimon"
+    ],
+    "correct": "Emfizematoz"
+  },
+  {
+    "question": "Zangsimon balg’am qaysi kasallikda kuzatiladi?",
+    "options": [
+      "Zotiljam kasalligi",
+      "O’pka abtsessida",
+      "O’pka rakida",
+      "O’pka silida"
+    ],
+    "correct": "Zotiljam kasalligi"
+  },
+  {
+    "question": "O`pka abtsessida antibiotiklarni effektiv yuborish yo`llarini aniqlang",
+    "options": [
+      "Abstsess ichiga",
+      "Teri ostiga",
+      "Vena ichiga",
+      "Muskul orasiga"
+    ],
+    "correct": "Abstsess ichiga"
+  },
+  {
+    "question": "Ekssudativ plevrit sababi?",
+    "options": [
+      "O`pka sili",
+      "O`pka shishi",
+      "O`tkir bronxit",
+      "Qandli diabet"
+    ],
+    "correct": "O`pka sili"
+  },
+  {
+    "question": "Pnevmoniyada tashxis qo’yish usulini ko’rsating ?",
+    "options": [
+      "Spirometriya",
+      "Siydik tahlili",
+      "Qonning umumiy tahlili",
+      "Ko’krak qafasi rentgenografiyasi"
+    ],
+    "correct": "Ko’krak qafasi rentgenografiyasi"
+  },
+  {
+    "question": "Qaysi a’zo nafas olish a’zolariga kirmaydi?",
+    "options": [
+      "Burun",
+      "Me’da",
+      "Traxeya va bronxlar",
+      "O’pkalar"
+    ],
+    "correct": "Me’da"
+  },
+  {
+    "question": "Jismoniy harakat paytida nafas . . . . . . . . . . . ?",
+    "options": [
+      "Tezlashadi",
+      "Sekinlashadi",
+      "O’zgarmaydi",
+      "Faqat bemor odamda o’zgaradi"
+    ],
+    "correct": "Tezlashadi"
+  },
+  {
+    "question": "Havo yo’llari orqali inson organizmidan tashqariga chiqarib yuboriladigan",
+    "options": [
+      "Azot oksidi",
+      "Xlor",
+      "Karbonat angidrid",
+      "Kislorod"
+    ],
+    "correct": "Karbonat angidrid"
+  },
+  {
+    "question": "Avvaliga quruq keyinchalik balg’amli yo’tal, ko’krak qafasida og’riq, tana",
+    "options": [
+      "Krupoz zotiljam",
+      "Plevrit",
+      "O’tkir bronxit",
+      "Bronxial astma"
+    ],
+    "correct": "O’tkir bronxit"
+  },
+  {
+    "question": "Nafas kasalliklari rivojlanishiga sabab bo’luvchi omillar qaysilar?",
+    "options": [
+      "Tamaki chekish, spirtli ichimliklar iste’mol qilish, sovuq qotish",
+      "Semizlik, ko’p ovqat iste’mol qilish",
+      "Og’ir jismoniy mehnat qilish",
+      "Stressni boshdan kechirish"
+    ],
+    "correct": "Tamaki chekish, spirtli ichimliklar iste’mol qilish, sovuq qotish"
+  },
+  {
+    "question": "Plevra punksiya qilinayotganda tibbiyot hamshirasi qanday vazifani",
+    "options": [
+      "Bemorni ruhan tinchlantiradi",
+      "Punksiyadan oldin tozalovchi klizma o’tkazadi",
+      "Bemorni ovqatlantiradi",
+      "Stulga o’tirgan bemor yonida hushyor turib, shifokorga ko’maklashadi"
+    ],
+    "correct": "Stulga o’tirgan bemor yonida hushyor turib, shifokorga ko’maklashadi"
+  },
+  {
+    "question": "Auskultatsiyada traxeya va yirik bronxlar ustida qanday tovush",
+    "options": [
+      "Amforik",
+      "Bronxial",
+      "Vezikulyar",
+      "Krepitatsiya"
+    ],
+    "correct": "Bronxial"
+  },
+  {
+    "question": "Nafas sonini aniqlashda muhim jihatni aniqlang ?",
+    "options": [
+      "Bemor bir kun oldin ogohlantiriladi",
+      "Bemor och qorinda bo’lishi kerak",
+      "Bemorga muolaja maqsadi tushuntirilmasdan nafas soni sanaladi",
+      "Bemorga muolaja maqsadi tushuntirilib, ogohlantiriladi"
+    ],
+    "correct": "Bemorga muolaja maqsadi tushuntirilmasdan nafas soni sanaladi"
+  },
+  {
+    "question": "Zotiljam kasalligida balg`am ko`rinishi",
+    "options": [
+      "Zangsimon balg`am ajralishi",
+      "«Og`iz to`la» balg`am ajralishi",
+      "Ko`piksimon balg`am ajralishi",
+      "Shishasimon balg`am ajralishi"
+    ],
+    "correct": "Zangsimon balg`am ajralishi"
+  },
+  {
+    "question": "Plеvrа ishqаlаnish tоvushi kuzаtilаdi:",
+    "options": [
+      "Quruq plеvritdа",
+      "Ekssudаtiv plеvritdа",
+      "Krupоz pnеvmоniyadа",
+      "O’pkа emfizеmаsidа"
+    ],
+    "correct": "Quruq plеvritdа"
+  },
+  {
+    "question": "O`pkadan qon ketganda shoshilinch yordam chorasi",
+    "options": [
+      "Bemorni tinchlantirish lozim",
+      "Ko`krak qafasiga muzli xalta qo`yish mumkin",
+      "Ko`krak qafasiga xantal qo`yish",
+      "Oyoqqa issiq vanna qilish"
+    ],
+    "correct": "Ko`krak qafasiga muzli xalta qo`yish mumkin"
+  },
+  {
+    "question": "Katta o’choqli asoratsiz pnevmoniya tuzalish davrida kuzatilmaydi?",
+    "options": [
+      "Plevraning ishqalanish tovushi",
+      "Jarangli mayda pufakchali xirillash",
+      "Dag’al nafas olish",
+      "Vezikulyar nafas olish"
+    ],
+    "correct": "Plevraning ishqalanish tovushi"
+  },
+  {
+    "question": "Katta o’choqli pnevmoniya uchun xarakterli emas:",
+    "options": [
+      "Perkussiyada quticha tovushi",
+      "Bronxial nafas olish",
+      "Ho’l xirillash",
+      "Kripitatsiya"
+    ],
+    "correct": "Perkussiyada quticha tovushi"
+  },
+  {
+    "question": "Bronxit bu:",
+    "options": [
+      "O’pka to’qimasini yallig’lanishi",
+      "Plevra varoqlarini yallig’lanishi",
+      "Kekirdak shilliq qavatini yallig’lanishi",
+      "Bronxlar shilliq qavatini yallig’lanishi"
+    ],
+    "correct": "Bronxlar shilliq qavatini yallig’lanishi"
+  },
+  {
+    "question": "O’tkir bronxit diagnostikasida qo’llanilmaydi:",
+    "options": [
+      "Rentgenologik tekshiruv",
+      "Balg’amning umumiy tahlili",
+      "Gastroskopiya",
+      "Balg’amning bakteriolagik tekshiruvi"
+    ],
+    "correct": "Gastroskopiya"
+  },
+  {
+    "question": "Bronxit kasalligining simptomi?",
+    "options": [
+      "A/B ko’tarilishi, puls tezlashishi, nafas siqishi",
+      "Yo’tal, balg’am ajralishi, ko’krak qafasida og’riq",
+      "Bosh og’riq, xolsizlik, uyqu buzulishi, darmonsizlik",
+      "Xolsizligi, temperatura ko’tarilishi, xushtaksimon nafas olish"
+    ],
+    "correct": "Yo’tal, balg’am ajralishi, ko’krak qafasida og’riq"
+  },
+  {
+    "question": "O`pka auskultatsiyasida normada qanday nafas eshitilmaydi?",
+    "options": [
+      "Xirillash, krepitatsiya",
+      "Bronxial nafas",
+      "Vezikulyar nafas",
+      "Bronxo-vezikulyar nafas"
+    ],
+    "correct": "Xirillash, krepitatsiya"
+  },
+  {
+    "question": "Patologik nafas turiga qaysilar kiradi?",
+    "options": [
+      "Vezikulyar, xirillash",
+      "Bronxo- vezikulyar",
+      "Cheyn-stoks, biot, kussmaul",
+      "Bronxial, krepitatsiya"
+    ],
+    "correct": "Cheyn-stoks, biot, kussmaul"
+  },
+  {
+    "question": "O`pka old tomondan nechanchi qovurg`alar orasida joylashgan?",
+    "options": [
+      "O`mrov suyagi va 5 -qovurg`a oralig`ida",
+      "2 - 8 qovurg`a oralig`ida",
+      "2 -10 qovurg`a oralig`ida",
+      "O`mrov suyagi va 8- qovurg`a oralig`ida"
+    ],
+    "correct": "O`mrov suyagi va 8- qovurg`a oralig`ida"
+  },
+  {
+    "question": "Kislorod nima maqsadda namlab beriladi?",
+    "options": [
+      "Miya shishini oldini olish maqsadida",
+      "O’pka va bronxlarga kislorodning toksik ta’sirini oldini olish maqsadida",
+      "O’tkir tomir yetishmovchiligini oldini olish maqsadida",
+      "Shilliq qavatlarning qurishi va kuyishni oldini olish maqsadida"
+    ],
+    "correct": "Shilliq qavatlarning qurishi va kuyishni oldini olish maqsadida"
+  },
+  {
+    "question": "Balg’amni atipik hujayralarga qanday yig’iladi?",
+    "options": [
+      "Har 3 soatda",
+      "Ertalab och qoringa",
+      "3 kun mobaynida og’zi keng idishga",
+      "Bir sutkalik"
+    ],
+    "correct": "Ertalab och qoringa"
+  },
+  {
+    "question": "Kislorod yostiqchasidan kislorod berilganda, qanday namlanadi?",
+    "options": [
+      "Doka salfetkani suvga namlagan holda",
+      "Kislorod yostig’iga suv solinadi",
+      "Bobrov apparatining kalta nayiga ulanadi",
+      "Bobrov apparatini ikkala nayiga ulanadi"
+    ],
+    "correct": "Doka salfetkani suvga namlagan holda"
+  },
+  {
+    "question": "O`pkaga mikrob qanday yo`llar bilan kiradi",
+    "options": [
+      "Bronxlar orqali",
+      "Qon orqali",
+      "Plevra orqali",
+      "Bronxlar, qon oqimi limfa oqimi"
+    ],
+    "correct": "Bronxlar, qon oqimi limfa oqimi"
+  },
+  {
+    "question": "Krupoz zotiljamda tana harorati necha C0 ko`tariladi",
+    "options": [
+      "39-40 S0",
+      "37-38 S0",
+      "41-42 S0",
+      "38 S0 gacha"
+    ],
+    "correct": "39-40 S0"
+  },
+  {
+    "question": "O`pka abstsessida balg’am qanday harakterli bo`ladi",
+    "options": [
+      "Shilliq",
+      "Serozli",
+      "Yiringli",
+      "Tiniq"
+    ],
+    "correct": "Yiringli"
+  },
+  {
+    "question": "Katta odamda 1 daqiqa mobaynida nafas harakatlari soni",
+    "options": [
+      "16-20",
+      "10 - 12",
+      "22-28",
+      "30-36"
+    ],
+    "correct": "16-20"
+  },
+  {
+    "question": "Xiqildoq qaerda joylashgan?",
+    "options": [
+      "Bo‘yinning IV-VI umurtqalari sohasida",
+      "Bo‘yinning III-V umurtqalari sohasida",
+      "Bo‘yinning IV-VII umurtqalari sohasida",
+      "Bo‘yinning III-IV umurtqalari sohasida"
+    ],
+    "correct": "Bo‘yinning IV-VI umurtqalari sohasida"
+  },
+  {
+    "question": "Burun bo‘shlig‘i lotin tilida qanday nomlanadi?",
+    "options": [
+      "Cavum nasi",
+      "Larynx",
+      "Cavum oris",
+      "Lingua"
+    ],
+    "correct": "Cavum nasi"
+  },
+  {
+    "question": "Gipoksiya nima?",
+    "options": [
+      "Organizmda kislorod yetishmasligi",
+      "Organizmda korbanat angidritni yetishmasligi",
+      "CO parsiyal bosimining qon va to‘qimalarda ortishi",
+      "Organizmda suv tuz almashishni buzulishi"
+    ],
+    "correct": "Organizmda kislorod yetishmasligi"
+  },
+  {
+    "question": "Qaysi apparatlar o`pkaning hayotiy xajmini aniqlaydi?",
+    "options": [
+      "Spirometr",
+      "Tonometr",
+      "Sekundomer",
+      "Monometr"
+    ],
+    "correct": "Spirometr"
+  },
+  {
+    "question": "Plеvrаl punktsiya qаchоn buyurilаdi?",
+    "options": [
+      "Diаgnоstikа vа dаvоlаsh mаqsаdidа,plеvrаl suyuqlik оlish vа dоri yubоrish",
+      "Plеvrа bitishmаlаrini аjrаtish",
+      "Brоnxlаrdаn bаlg`аmni so`rib оlish",
+      "Plеvrаning vаzifаsini аniqlаsh uchun"
+    ],
+    "correct": "Diаgnоstikа vа dаvоlаsh mаqsаdidа,plеvrаl suyuqlik оlish vа dоri yubоrish"
+  },
+  {
+    "question": "Bemorlarga hansirashni kamaytirish uchun nima qilinadi?",
+    "options": [
+      "Ingalyatsiya yo’li bilan namlangan kislorod yuborish",
+      "Sun’iy kislorod berish",
+      "Xonani shamollatish",
+      "Xona havosini almashtirish"
+    ],
+    "correct": "Ingalyatsiya yo’li bilan namlangan kislorod yuborish"
+  },
+  {
+    "question": "Bronxlarni kengaytiruvchi dorilar qo’llanilganda nimaga e’tibor beriladi",
+    "options": [
+      "Yurak urishiga, nafas olish soniga, pulsga",
+      "Bo’g’ilishga, teriga, ko’rinishiga",
+      "Tez nafas olishga, tez charchashiga",
+      "Yuz tuzilishiga,yurak urishiga"
+    ],
+    "correct": "Yurak urishiga, nafas olish soniga, pulsga"
+  },
+  {
+    "question": "Nafas olish a’zolariga qanday a’zolar kiradi?",
+    "options": [
+      "Burun yo’llari, xiqildoq, traxeya, bronx va o’pka",
+      "Burun yo’llari, halqum, qizilo’ng’ach, o’pka",
+      "Traxeya, bronx, o’pka, qizilo’ng’ach, plevra",
+      "Burun yo’li, hiqildoq, qizilo’ng’ach va teri"
+    ],
+    "correct": "Burun yo’llari, xiqildoq, traxeya, bronx va o’pka"
+  },
+  {
+    "question": "O’pka to’qimalariga nimalar kiradi?",
+    "options": [
+      "Alveola, mayda qon tomirlar, ko’ks oralig’i",
+      "Broxlar, broxiolalar, oraliq to’qima",
+      "Oraliq to’qima,yirik qon tomirlar",
+      "O’pka va diafragma"
+    ],
+    "correct": "Alveola, mayda qon tomirlar, ko’ks oralig’i"
+  },
+  {
+    "question": "O’ng o’pka necha bo’lakdan iborat?",
+    "options": [
+      "Ustki, pastki va o’rta",
+      "Bo’laklari yo’q",
+      "Faqat ustki",
+      "Yaxlit butun a’zo"
+    ],
+    "correct": "Ustki, pastki va o’rta"
+  },
+  {
+    "question": "O`pkadan qon ketishining asosiy belgisi",
+    "options": [
+      "Qizil ko`piksimon qon aralash balg`am chiqishi",
+      "Terisi quruq",
+      "«kofe quyqasi» singari qusish",
+      "Qon bosimini oshishi"
+    ],
+    "correct": "Qizil ko`piksimon qon aralash balg`am chiqishi"
+  },
+  {
+    "question": "O`tkir zotiljamda qo`llaniladigan dori modda",
+    "options": [
+      "Antibiotiklar",
+      "Festal",
+      "Furosemid",
+      "Raunatin"
+    ],
+    "correct": "Antibiotiklar"
+  },
+  {
+    "question": "Qaysi kasallikda plevra punksiya qilinadi?",
+    "options": [
+      "Ekssudativ plevritda",
+      "Bronxial astmada",
+      "O’pka absessida",
+      "Krupoz pnevmoniyada"
+    ],
+    "correct": "Ekssudativ plevritda"
+  },
+  {
+    "question": "O’tkir o’choqli zotiljamda o’pkaning qaysi sohasi yallig’lanadi?",
+    "options": [
+      "O’pkaning bir segmenti yoki asinusi o’tkir yallig’lanadi",
+      "O’pkaning barcha segmenti",
+      "O’pkaning yoyilgan yallig’lanishi",
+      "O’pkaning sog’lom to’qimasi"
+    ],
+    "correct": "O’pkaning bir segmenti yoki asinusi o’tkir yallig’lanadi"
+  },
+  {
+    "question": "Zotiljam kasalligining turlarini ayting",
+    "options": [
+      "Mayda o’choqli, yirik o’choqli va tutashgan o’choqli",
+      "Tarqalgan va tutashgan",
+      "Mayda o’choqli tarqalgan",
+      "Yirik o’choqli tarqalgan"
+    ],
+    "correct": "Mayda o’choqli, yirik o’choqli va tutashgan o’choqli"
+  },
+  {
+    "question": "O’pka abstsessining davrlari?",
+    "options": [
+      "Abstsess yorilguncha va yorilgandan keyingi davr",
+      "Aspiratsion, travmatik",
+      "Yashirin davr",
+      "Prodromal davr"
+    ],
+    "correct": "Abstsess yorilguncha va yorilgandan keyingi davr"
+  },
+  {
+    "question": "O’pka absessi bu…",
+    "options": [
+      "O’pka to’qimasida cheklangan holda yiring to’planishi",
+      "O’pka to’qimasida suv yig’ilishi",
+      "O’pka to’qimasida kista o’sishi",
+      "O’pka to’qimasining o’zgarmasligi"
+    ],
+    "correct": "O’pka to’qimasida cheklangan holda yiring to’planishi"
+  },
+  {
+    "question": "Taxipnoe nima?",
+    "options": [
+      "Nafas olishning tezlashishi",
+      "Nafas olishning sekinlashishi",
+      "Nafas olishning buzilishi",
+      "Nafas olishning to’xtashi"
+    ],
+    "correct": "Nafas olishning tezlashishi"
+  },
+  {
+    "question": "Bradipnoe nima?",
+    "options": [
+      "Nafas olishning sekinlashishi",
+      "Nafas olishning tezlashishi",
+      "Nafas olishning buzilishi",
+      "Nafas olishning to’xtashi"
+    ],
+    "correct": "Nafas olishning sekinlashishi"
+  },
+  {
+    "question": "Apnoe nima?",
+    "options": [
+      "Nafas olishning to’xtashi",
+      "Nafas olishning sekinlashishi",
+      "Nafas olishning tezlashishi",
+      "Nafas olishning buzilishi"
+    ],
+    "correct": "Nafas olishning to’xtashi"
+  },
+  {
+    "question": "Dyspnoe nima?",
+    "options": [
+      "Nafas olishning buzilishi",
+      "Nafas olishning to’xtashi",
+      "Nafas olishning sekinlashishi",
+      "Nafas olishning tezlashishi"
+    ],
+    "correct": "Nafas olishning buzilishi"
+  },
+  {
+    "question": "Balg’am bu…",
+    "options": [
+      "Nafas yo’llaridan ajraluvchi patologik ajralma",
+      "Hazm yo’llaridan ajraluvchi patologik ajralma",
+      "Nafas yo’llaridan chiquvchi quruq modda",
+      ".Hazm yo’llaridan chiquvchi quruq modda"
+    ],
+    "correct": "Nafas yo’llaridan ajraluvchi patologik ajralma"
+  },
+  {
+    "question": "Inspirator hansirash bu- nima?",
+    "options": [
+      "Aralash hansirash",
+      "Nafas chiqarishning qiyinlashuvi",
+      "Nafas olishning qiyinlashuvi",
+      "Yotgan holatdagi hansirash"
+    ],
+    "correct": "Nafas olishning qiyinlashuvi"
+  },
+  {
+    "question": "Ekspirator hansirash bu- nima?",
+    "options": [
+      "Aralash hansirash",
+      "Nafas chiqarishning qiyinlashuvi",
+      "Nafas olishning qiyinlashuvi",
+      "Yotgan holatdagi hansirash"
+    ],
+    "correct": "Nafas chiqarishning qiyinlashuvi"
+  },
+  {
+    "question": "Ko’krak qafasining potologik turini toping",
+    "options": [
+      "Astenik",
+      "Bochkasimon",
+      "Giperstenik",
+      "Normastenik"
+    ],
+    "correct": "Bochkasimon"
+  },
+  {
+    "question": "O’tkir bronxit kasalligi qaysi kasallikdan so’ng rivojlanadi?",
+    "options": [
+      "Alkogolizm",
+      "Chekish",
+      "ORVI",
+      "Sovuq urishi"
+    ],
+    "correct": "ORVI"
+  },
+  {
+    "question": "Obstruktiv bronxitda bemorning asosiy shikoyati …",
+    "options": [
+      "Tana haroratini ko’tarilishi",
+      "Bosh og’rig’i",
+      "Hansirash",
+      "Holsizlik"
+    ],
+    "correct": "Hansirash"
+  },
+  {
+    "question": "O’pkadan qon ketishi balg’am qanday bo’ladi?",
+    "options": [
+      "Ko’pksimon alvon rangli",
+      "To’q, laxtasimnon",
+      "“Kofe quyuqasimon”",
+      "Qusuq massalari bilan"
+    ],
+    "correct": "Ko’pksimon alvon rangli"
+  },
+  {
+    "question": "EKG qilishda o’ng qo’lga qaysi elektrod qo’yiladi?",
+    "options": [
+      "Sariq",
+      "Yashil",
+      "Qizil",
+      "Qora"
+    ],
+    "correct": "Qizil"
+  },
+  {
+    "question": "Gipertoniya kasalligi rivojlanishida asosiy etiologik faktor:",
+    "options": [
+      "Asab ruhiy zo’riqishlar",
+      "Tonzillit",
+      "Kamqonlik",
+      "Ishtaha pastligi"
+    ],
+    "correct": "Asab ruhiy zo’riqishlar"
+  },
+  {
+    "question": "Kuchli bosh og’rigi, ko’ngil aynishi, qusish, ko’z oldida chumoli yurganday",
+    "options": [
+      "Hushdan ketishda",
+      "Kollapsda",
+      "Gipertonik kriz",
+      "Stenokardiya"
+    ],
+    "correct": "Gipertonik kriz"
+  },
+  {
+    "question": "Gipertoniya kasalligi asorati :",
+    "options": [
+      "Insult, miokard infarkti",
+      "Hushdan ketish, kollaps",
+      "Revmatizm, yurak nuqsoni",
+      "Zotiljam plevrit"
+    ],
+    "correct": "Insult, miokard infarkti"
+  },
+  {
+    "question": "Qattiq, tarang puls aniqlanadi:",
+    "options": [
+      "Gipertonik kriz",
+      "Hushdan ketish",
+      "Kollaps",
+      "Kardiogen shok"
+    ],
+    "correct": "Gipertonik kriz"
+  },
+  {
+    "question": "Gipertoniya kasalligi bilan og’rigan bemorni yil davomida necha marta",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": "4"
+  },
+  {
+    "question": "Gipertoniya kasalligida dispanserizatsiya samarasi kriteriylari:",
+    "options": [
+      "Klinik ko’rsatkichlarning yomonlashuvi",
+      "Mehnatga layoqatsizlikning kamayishi",
+      "Infarktlar sonining oshishi",
+      "Insultlar sonining oshishi"
+    ],
+    "correct": "Mehnatga layoqatsizlikning kamayishi"
+  },
+  {
+    "question": "Yurak qon tomir tizimi kasalliklarida o’limning asosiy sababini ko’rsating:",
+    "options": [
+      "Gipertoniya kasalligi",
+      "Yurak ishemik kasalliklari",
+      "Yurak nuqsonlari",
+      "Revmatizm"
+    ],
+    "correct": "Yurak ishemik kasalliklari"
+  },
+  {
+    "question": "Yurak ishemik kasalliklari rivojlanish xavfi ayollarda erkaklarga nisbatan:",
+    "options": [
+      "Yuqori",
+      "Past",
+      "Bir xil",
+      "Rivojlanmaydi"
+    ],
+    "correct": "Past"
+  },
+  {
+    "question": "Chap kurakka tarqaluvchi, to’sh orqasida bosuvchi 5 – 10 minut davom",
+    "options": [
+      "Surunkali yurak yetishmovchiligi",
+      "Miokard infarkti",
+      "O’tkir qon tomir yetishmovchiligi",
+      "Stenokardiya"
+    ],
+    "correct": "Stenokardiya"
+  },
+  {
+    "question": "Tinch turganda yoki 100 metrdan kam yurganda stenokardiya og’riq",
+    "options": [
+      "Birinchi",
+      "Ikkinchi",
+      "Uchinchi",
+      "To’rtinchi"
+    ],
+    "correct": "To’rtinchi"
+  },
+  {
+    "question": "Stenokardiya xurujida bemorga qanday yordam ko’rsatiladi:",
+    "options": [
+      "Asmopent ingalyatsiya qilinadi",
+      "Teri ostiga dimedrol jo’natiladi",
+      "Tomir ichiga prednizolon jo’natiladi",
+      "Til ostiga nitroglitserin beriladi"
+    ],
+    "correct": "Til ostiga nitroglitserin beriladi"
+  },
+  {
+    "question": "Stenokardiyaning I funksional sinfida bemor kim bo’lib ishlashi mumkin?",
+    "options": [
+      "Kutubxonachi",
+      "Haydovchi",
+      "Yuk tashuvchi",
+      "Uchuvchi"
+    ],
+    "correct": "Kutubxonachi"
+  },
+  {
+    "question": "Stenokardiya kasalligida dispanserizatsiya samarasi kriteriylari:",
+    "options": [
+      "Nogironlik guruhini og’irlashuvi",
+      "II funksional sinfdan III funksional sinfga o’tish",
+      "III funksional sinfdan II funksional sinfga o’tish",
+      "Mehnatga layoqatsizlikning oshishi"
+    ],
+    "correct": "III funksional sinfdan II funksional sinfga o’tish"
+  },
+  {
+    "question": "Mahalliy arterial qonsizlanish bu -",
+    "options": [
+      "Anemiya",
+      "Ishemiya",
+      "Gipoksiya",
+      "Gipoksemiya"
+    ],
+    "correct": "Ishemiya"
+  },
+  {
+    "question": "Miokard infarktining tipik turi:",
+    "options": [
+      "Abdominal",
+      "Anginoz",
+      "Astmatik",
+      "Og’riqsiz"
+    ],
+    "correct": "Anginoz"
+  },
+  {
+    "question": "Miokard infarktining jonlantiruvchi yordam talab qiladigan asoratini",
+    "options": [
+      "Kardiogen shok",
+      "Kollaps",
+      "Sinusli taxikardiya",
+      "Qorinchalar fibrillyatsiyasi"
+    ],
+    "correct": "Qorinchalar fibrillyatsiyasi"
+  },
+  {
+    "question": "Yurak sohasida 30 daqiqadan ko’p davom etuvchi og’riq, ALT oshishi",
+    "options": [
+      "Gipertoniya kasalligi",
+      "Miokard infarkti",
+      "Kardioskleroz",
+      "Stenokardiya"
+    ],
+    "correct": "Miokard infarkti"
+  },
+  {
+    "question": "Miokard infarktining birinchi kunida bemorga qanday tartib belgilanadi?",
+    "options": [
+      "Qat’iy yotoq",
+      "Faol",
+      "Yarim yotish",
+      "Bemor xohishiga ko’ra"
+    ],
+    "correct": "Qat’iy yotoq"
+  },
+  {
+    "question": "Miokard infarktida bemorni tashish usuli:",
+    "options": [
+      "Kreslo – katalkada",
+      "Zambilda",
+      "O’zi yurib boradi",
+      "Hamshira yetaklab boradi"
+    ],
+    "correct": "Zambilda"
+  },
+  {
+    "question": "Miokard infarktida bemorni kasalxonaga yotqiziladi:",
+    "options": [
+      "Kasallikning birinchi soatida",
+      "Kasallikning ikkinchi kunida",
+      "Kasallikning uchinchi kunida",
+      "Kasallikning to’rtinchi kunida"
+    ],
+    "correct": "Kasallikning birinchi soatida"
+  },
+  {
+    "question": "Yurak tufayli shishlar kunning qaysi paytida yuzaga keladi?",
+    "options": [
+      "Ertalab yuzda",
+      "Ertalab oyoqda",
+      "Kechqurun oyoqda",
+      "Kechqurun yuzda"
+    ],
+    "correct": "Kechqurun oyoqda"
+  },
+  {
+    "question": "Shish bilan kuzatilayotgan yurak qon tomir kasalliklarida parvarishlash",
+    "options": [
+      "Suyuqlik va tuz miqdorini cheklash",
+      "Oqsil va yog’lar iste’molini cheklash",
+      "Suyuqlik va tuz miqdorini oshirish",
+      "Oqsil va yog’lar iste’molini oshirish"
+    ],
+    "correct": "Suyuqlik va tuz miqdorini cheklash"
+  },
+  {
+    "question": "Bir daqiqada yurak urishlari soni 50 tani tashkil etsa bu----",
+    "options": [
+      "Bradikardiya",
+      "Taxikardiya",
+      "Ekstrasistoliya",
+      "Norma"
+    ],
+    "correct": "Bradikardiya"
+  },
+  {
+    "question": "Bir daqiqada yurak urishlari soni 100 tani tashkil etsa bu----",
+    "options": [
+      "Bradikardiya",
+      "Taxikardiya",
+      "Ekstrasistoliya",
+      "Norma"
+    ],
+    "correct": "Taxikardiya"
+  },
+  {
+    "question": "Surunkali yurak qon tomir kasalliklarida teri rangining o’ziga xosligi:",
+    "options": [
+      "Mumsimon oqarish",
+      "Lab va lab burun uchburchagi sianozi",
+      "Diffuz sariqlik",
+      "Yuz qaizarishi"
+    ],
+    "correct": "Lab va lab burun uchburchagi sianozi"
+  },
+  {
+    "question": "Stenokardiya xurujida dori vositalarini yuborishning samarali usuli:",
+    "options": [
+      "Intranazal",
+      "Sublingval",
+      "Mushak orasiga",
+      "Teri ostiga"
+    ],
+    "correct": "Sublingval"
+  },
+  {
+    "question": "Kollaps bu quyidagilarning qaysi birining o’tkir yetishmovchiligi?",
+    "options": [
+      "Koronar",
+      "Chap qorincha",
+      "O’ng qorincha",
+      "Qon – tomir"
+    ],
+    "correct": "Qon – tomir"
+  },
+  {
+    "question": "Kollapsda qaysi dori vositalarni tayyorlaysiz?",
+    "options": [
+      "Atropin , penitsillin",
+      "Baralgin, gemodez",
+      "Mezaton, poliglukin",
+      "Prednizolon, laziks"
+    ],
+    "correct": "Mezaton, poliglukin"
+  },
+  {
+    "question": "Qisqa muddat hushdan ketish, teri qoplamlarining oqarishi qaysi holatga",
+    "options": [
+      "Kollaps",
+      "Hushdan ketish",
+      "Isterik tutqanoq",
+      "Epileptik tutqanoq"
+    ],
+    "correct": "Hushdan ketish"
+  },
+  {
+    "question": "Yurak qisqarishi nima deyiladi?",
+    "options": [
+      "Sistola",
+      "Diastola",
+      "Yurak dam olishi",
+      "Yurakning tez urishi"
+    ],
+    "correct": "Sistola"
+  },
+  {
+    "question": "Diastola deb nimaga aytiladi?",
+    "options": [
+      "Yurakning qisqarishi",
+      "Yurakning bo’shashishi",
+      "Yurakning sekin urishi",
+      "Yurakning tez urishi"
+    ],
+    "correct": "Yurakning bo’shashishi"
+  },
+  {
+    "question": "Eng katta qon tomirni ayting:",
+    "options": [
+      "Aorta",
+      "Arteriya",
+      "Vena",
+      "Kapillyar"
+    ],
+    "correct": "Aorta"
+  },
+  {
+    "question": "Yurakda qanday klapanlar bor?",
+    "options": [
+      "Quyoshsimon klapan, mitral klapan",
+      "Mitral klapan, aortal klapan, trikuspidal klapan",
+      "Venoz klapanlar, aortal klapan",
+      "Trikuspidal klapan, arteriyalar"
+    ],
+    "correct": "Mitral klapan, aortal klapan, trikuspidal klapan"
+  },
+  {
+    "question": "Taxikardiya bu",
+    "options": [
+      "Yurak urishining tezlashishi",
+      "Yurak urishining sekinlashishi",
+      "Yurakning bir maromda urishi",
+      "Yurak ritmining buzilishi",
+      "Yurak urishining sekinlashishi",
+      "Yurak urishining tezlashishi",
+      "Yurakning bir maromda urishi",
+      "Yurak ritmining buzilishi"
+    ],
+    "correct": "Yurak urishining tezlashishi"
+  },
+  {
+    "question": "Aritmiya bu…",
+    "options": [
+      "Yurak ritmining buzilishi",
+      "Yurak urishining sekinlashishi",
+      "Yurak urishining tezlashishi",
+      "Yurakning bir maromda urishi"
+    ],
+    "correct": "Yurak ritmining buzilishi"
+  },
+  {
+    "question": "Yurak-qon tomirlarini asosiy tekshirish usuli qaysi?",
+    "options": [
+      "Gastroskopiya",
+      "Bronxografiya",
+      "Kolonoskopiya",
+      "EKG"
+    ],
+    "correct": "EKG"
+  },
+  {
+    "question": "Yurak-qon tomir kasalligini belgilang:",
+    "options": [
+      "Gipertoniya",
+      "Glomerulonefrit",
+      "Plevrit",
+      "Gastrit"
+    ],
+    "correct": "Gipertoniya"
+  },
+  {
+    "question": "Quyidagilardan yurak ishemik kasalligini belgilang",
+    "options": [
+      "Anemiya",
+      "Leykoz",
+      "Gepatit",
+      "Stenokardiya"
+    ],
+    "correct": "Stenokardiya"
+  },
+  {
+    "question": "Stenokardiyaning miokard infarktidan farqi qanday?",
+    "options": [
+      "Og’ir kechadi",
+      "Nitroglitserindan og’riq qolmaydi",
+      "EKGda doimiy belgilar kuzatiladi",
+      "Nitroglitserin ta’siriga beriluvchan"
+    ],
+    "correct": "Nitroglitserin ta’siriga beriluvchan"
+  },
+  {
+    "question": "O’tkir miokard infarkti o’chog’ida miokardda qanday o’zgarish bo’ladi?",
+    "options": [
+      "Nekroz o’chog’i",
+      "Anevrizma",
+      "Perforatsiya",
+      "Malignizatsiya"
+    ],
+    "correct": "Nekroz o’chog’i"
+  },
+  {
+    "question": "Arterial qon bosimi oshishiga nima olib keladi?",
+    "options": [
+      "Qon tomirlar tonusining oshishi",
+      "Harorat ko’tarilishi",
+      "Qon tomirlar tonusining pasayishi",
+      "Qon y’qotish"
+    ],
+    "correct": "Qon tomirlar tonusining oshishi"
+  },
+  {
+    "question": "Stenokardiyaning asorati ko’rsatilgan variantni toping:",
+    "options": [
+      "Miokard infarkti",
+      "Insult",
+      "Kardioskleroz",
+      "Yurak nuqsoni"
+    ],
+    "correct": "Miokard infarkti"
+  },
+  {
+    "question": "EKG apparatida nechta ko’krak elektrodi bor?",
+    "options": [
+      "5 ta",
+      "4 ta",
+      "6 ta",
+      "7 ta"
+    ],
+    "correct": "6 ta"
+  },
+  {
+    "question": "Kollapsning sabablari:",
+    "options": [
+      "Arterial bosimning oshishi",
+      "Haroratning oshishi",
+      "Ko’p miqdorda suyuqlik yo’qotish",
+      "Ruhiy zo’riqishlar"
+    ],
+    "correct": "Ko’p miqdorda suyuqlik yo’qotish"
+  },
+  {
+    "question": "Xafaqon kasalligi xarakterlanadi:",
+    "options": [
+      "Yurak to’qimalarini yallig’lanishi bilan",
+      "Moddalar almashinuvining buzilishi bilan",
+      "Arterial gipertenziya bilan",
+      "Arterial gipertoniya bilan"
+    ],
+    "correct": "Arterial gipertenziya bilan"
+  },
+  {
+    "question": "Arterial bosimning normal chegaraviy ko’rsatkichini aniqlang:",
+    "options": [
+      "80/60 – 90/65 mm.sm.ust",
+      "90/65 – 100/70 mm.sm.ust",
+      "110/70 – 140/90 mm.sm.ust",
+      "150/90 – 170/95 mm.sm.ust"
+    ],
+    "correct": "110/70 – 140/90 mm.sm.ust"
+  },
+  {
+    "question": "Miokard infarkti asoratiga kirmaydi:",
+    "options": [
+      "Kardiogen shok",
+      "Yurak ritmining buzilishi",
+      "Yurak nuqsoni",
+      "Yurak anevrizmasi"
+    ],
+    "correct": "Yurak nuqsoni"
+  },
+  {
+    "question": "Hushdan ketishda bemorga qanday holat beriladi?",
+    "options": [
+      "Oyog’i ko’tarilgan holda chalqancha yotqiziladi",
+      "Boshi ko’tarilgan holda chalqancha yotqiziladi",
+      "Bemor yarim o’tirgan holatga keltiriladi",
+      "Bemor o’tirgan holatga keltiriladi"
+    ],
+    "correct": "Oyog’i ko’tarilgan holda chalqancha yotqiziladi"
+  },
+  {
+    "question": "Qaysi shok miokard infarktining asorati hisoblanadi:",
+    "options": [
+      "Kuyish shoki",
+      "Travmatik shok",
+      "Kardiogen shok"
+    ],
+    "correct": "Kardiogen shok"
+  },
+  {
+    "question": "Kollaps simptomi:",
+    "options": [
+      "Yo’tal",
+      "Haroratning oshishi",
+      "Qusish",
+      "Arterial bosimning tushishi"
+    ],
+    "correct": "Arterial bosimning tushishi"
+  },
+  {
+    "question": "Miokard infarkti sababi:",
+    "options": [
+      "Yurak tomirlariga tromb tiqilishi",
+      "Ko’krak qafasi travmalari",
+      "Qon yo’qotish",
+      "Virusli kasalliklar"
+    ],
+    "correct": "Yurak tomirlariga tromb tiqilishi"
+  },
+  {
+    "question": "Arterial gipertenziya rivojlanishiga sabab bo’luvchi omillar:",
+    "options": [
+      "Ruhiy zo’riqishlar",
+      "Ko’p miqdorda oqsillar iste’mol qilish",
+      "Sovqotish",
+      "Surunkali tonzillit"
+    ],
+    "correct": "Ruhiy zo’riqishlar"
+  },
+  {
+    "question": "Hushdan ketishda parvarish:",
+    "options": [
+      "Yuzga urib, suv sepish",
+      "Og’riqsizlantiruvchi dori vositalarni kiritish",
+      "Tomir toraytiruvchi preparatlarni kiritish",
+      "Muchalarga jgut qo’yish"
+    ],
+    "correct": "Yuzga urib, suv sepish"
+  },
+  {
+    "question": "Gipertonik krizda medikamentoz bo’lmagan yordam:",
+    "options": [
+      "Qon chiqarish",
+      "Epigastral sohaga muzli xaltacha qo’yish",
+      "Yurak sohasiga xantal qo’yish",
+      "Me’dani yuvish"
+    ],
+    "correct": "Qon chiqarish"
+  },
+  {
+    "question": "Stenokardiya xurujida nitroglitserinning davolovchi samarasi qaysi ta’sir",
+    "options": [
+      "Toj arteriyalarning kengayishi",
+      "Periferik arteriyalarning kengayishi",
+      "Periferik venoz tizim kengayishi",
+      "Yurak qisqarishlari sonining oshishi"
+    ],
+    "correct": "Toj arteriyalarning kengayishi"
+  },
+  {
+    "question": "Stenokardiya xurujida EKGdagi o’zgarishlar:",
+    "options": [
+      "R tishchaning pasayishi",
+      "S – T segmentning izoliniyadan pastga tushishi",
+      "Q tishchaning chuqurlashishi va kengayishi",
+      "P tishchaning kattalashuvi"
+    ],
+    "correct": "S – T segmentning izoliniyadan pastga tushishi"
+  },
+  {
+    "question": "Moikard infarktida rivojlanadi:",
+    "options": [
+      "Miokard nekrozi",
+      "Miokard distrofiyasi",
+      "Miokardning yallig’lanishi",
+      "Miokard sklerozi"
+    ],
+    "correct": "Miokard nekrozi"
+  },
+  {
+    "question": "Miokard infarktida yurak muskullari nekrozga uchrashining sababi:",
+    "options": [
+      "Koronar arteriyalarning yallig’lanishi",
+      "Miokarddagi distrofik o’zgarishlar",
+      "Perikardit",
+      "Koronar arteriyalar aterosklerozi , koronarotromboz"
+    ],
+    "correct": "Koronar arteriyalar aterosklerozi , koronarotromboz"
+  },
+  {
+    "question": "“O’tkir qorin” psevdosindromi miokard infarktining qaysi turida",
+    "options": [
+      "Anginoz",
+      "Astmatik",
+      "Aritmik",
+      "Gastralgik"
+    ],
+    "correct": "Gastralgik"
+  },
+  {
+    "question": "Yurak astmasining asosiy simptomi:",
+    "options": [
+      "Qorinda og’riq",
+      "Bosh aylanishi",
+      "Ko’ngil aynishi",
+      "Bo’g’ilish"
+    ],
+    "correct": "Bo’g’ilish"
+  },
+  {
+    "question": "Qo’l va oyoqlarga venoz jgutlar qo’yishga ko’rsatma bo’la oladi:",
+    "options": [
+      "Bronxial astma",
+      "Hushdan ketish",
+      "Stenokardiya",
+      "Yurak astmasi"
+    ],
+    "correct": "Yurak astmasi"
+  },
+  {
+    "question": "Yurak astmasi bu………….yetishmovchiligidir",
+    "options": [
+      "Toj tomirlar",
+      "Chap qorincha",
+      "O’ng qorincha",
+      "Qon tomir"
+    ],
+    "correct": "Chap qorincha"
+  },
+  {
+    "question": "Angiografiyaga bemorni tayyorlashda hamshiraning vazifasi:",
+    "options": [
+      "Angiografiyadan oldin kontrast moddaga sezuvchanlik sinamasini o’tkazadi",
+      "Bemorni tinchlantiradi",
+      "Bemorni ovqatlantiradi",
+      "Bemordan tahlil uchun qon oladi"
+    ],
+    "correct": "Angiografiyadan oldin kontrast moddaga sezuvchanlik sinamasini o’tkazadi"
+  },
+  {
+    "question": "Bemorni EKGga tayyorlashda hamshira qanday ehtiyot chorasini ko’rishi",
+    "options": [
+      "Bemorga nahorga kelishni aytish",
+      "Bemorga to’yib ovqatlanib kelishini tushuntirish",
+      "Bemorga yurak urishlari sonini tushuntirish",
+      "Xona iliq bo’lishi hamda bemorning temir taqinchoq va buyumlari olinganligiga"
+    ],
+    "correct": "Xona iliq bo’lishi hamda bemorning temir taqinchoq va buyumlari olinganligiga"
+  },
+  {
+    "question": "Qon tahlilida xolesterin miqdorining oshishi va qon ivuvchanligining oshishi",
+    "options": [
+      "Yurak nuqsoni",
+      "Yurak ishemik kasalliklari",
+      "Endokardit",
+      "Revmatizm"
+    ],
+    "correct": "Yurak ishemik kasalliklari"
+  },
+  {
+    "question": "Yurqk qon – tomir tizimi kasalliklarini tekshiruv usuliga kirmaydi:",
+    "options": [
+      "EKG",
+      "EXO – KG",
+      "Ultratovush tekshiruvi",
+      "Bronxoskopiya"
+    ],
+    "correct": "Bronxoskopiya"
+  },
+  {
+    "question": "Yurak qon – tomir tizimi palpatsiyasida …tekshiriladi va baholanadi",
+    "options": [
+      "Arterial qon bosimi",
+      "Puls",
+      "Tana harorati",
+      "Semizlik"
+    ],
+    "correct": "Puls"
+  },
+  {
+    "question": "Bosh (ensa sohasida)og’riq, bosh aylanishi, quloq shangillashi, yurak",
+    "options": [
+      "Stenokardiya",
+      "Miokard infarkti",
+      "Xafaqon kasalligi",
+      "Yurak yetishmovchiligi"
+    ],
+    "correct": "Xafaqon kasalligi"
+  },
+  {
+    "question": "Normada qonda xolesterin miqdori qanchani tashkil etadi?",
+    "options": [
+      "1 – 1,5 mmol",
+      "3,9 – 6,5 mmol",
+      "10 – 15 mmol",
+      "15 – 20 mmol"
+    ],
+    "correct": "3,9 – 6,5 mmol"
+  },
+  {
+    "question": "Yurak qon – tomir kasalliklarida dori vositalarni qo’llashda hamshira",
+    "options": [
+      "Dori vositaning asosiy terapevtik va nojo’ya ta’sirini",
+      "Dori vositani qo’llanish usulini",
+      "Bemorni bir martalik dozasi, maksimal qo’llash mumkin bo’lgan dozasini",
+      "Bemorning kun tartibini"
+    ],
+    "correct": "Bemorning kun tartibini"
+  },
+  {
+    "question": "Yurak qon – tomir tizimi kasalliklari bilan bemorni so’rab surishtirish",
+    "options": [
+      "Anamnezis morbi,anamnezis vitae, shikoyati so’raladi",
+      "Pasport qismi, shikoyati, anamnezis morbi, anamnezis vitae so’raladi",
+      "Qon bosimi o’lchanib shikoyati so’raladi",
+      "Pulsi anniqlanib, shikoyati so’raladi"
+    ],
+    "correct": "Pasport qismi, shikoyati, anamnezis morbi, anamnezis vitae so’raladi"
+  },
+  {
+    "question": "Yurak qon – tomir kasalliklarida qonni biokimyoviy tahlilga olishdan",
+    "options": [
+      "Qondagi ALAT, AsAT miqdorini aniqlash",
+      "Xolesterin miqdorini aniqlash",
+      "S reaktiv oqsilni aniqlash",
+      "Qoldiq azot miqdorini aniqlash"
+    ],
+    "correct": "Qoldiq azot miqdorini aniqlash"
+  },
+  {
+    "question": "Yurak kasalliklarini tekshirish va davolashda qanday tekshirish usullari",
+    "options": [
+      "Umumiy qon tahlili",
+      "EKG, bronxoskopiya",
+      "Sub’yektiv, ob’yektiv, laborator funksional tekshiruvlar",
+      "Faqat qon bosimi va pulsni aniqlash"
+    ],
+    "correct": "Sub’yektiv, ob’yektiv, laborator funksional tekshiruvlar"
+  },
+  {
+    "question": "Surunkali yurak yetishmovchiligining I bosqichida:",
+    "options": [
+      "Surunkali yurak yetishmovchiligi belgilari jismoniy harakat qilganda bilinadi,",
+      "Bemorning ish qobiliyati yo’qoladi",
+      "Tinch turganda bemor hansirab turadi",
+      "Bemor qon tupuradi"
+    ],
+    "correct": "Surunkali yurak yetishmovchiligi belgilari jismoniy harakat qilganda bilinadi,"
+  },
+  {
+    "question": "Yurak astmasi xurujida bemor ko’pincha qanday holatda bo’ladi?",
+    "options": [
+      "Qorniga oyog’ini tortgan holatda",
+      "Majburiy(ortopnoe) holatda",
+      "Chalqancha yostiqsiz yotgan holatda",
+      "Yuztuban yotgan holatda"
+    ],
+    "correct": "Majburiy(ortopnoe) holatda"
+  },
+  {
+    "question": "Bo’g’ilish kuchayishi, ko’p miqdorda pushtirang ko’piksimon balg’am",
+    "options": [
+      "O’pka shishi",
+      "Yurak astmasi",
+      "Bronxial astma",
+      "Gipertonik kriz"
+    ],
+    "correct": "O’pka shishi"
+  },
+  {
+    "question": "Surunkali yurak yetishmovchiligi nechta bosqichda kechadi:",
+    "options": [
+      "Ikki bosqichda",
+      "Uch bosqichda",
+      "Besh bosqichda",
+      "To’rt bosqichda"
+    ],
+    "correct": "Uch bosqichda"
+  },
+  {
+    "question": "Surunkali yurak yetishmovchiligida bemorning shikoyatiga kirmaydi:",
+    "options": [
+      "Jismoniy harakat qilganda havo yetishmasligi",
+      "Yurakning tez urib ketishi",
+      "Bo’g’ilish tez charchash",
+      "Tana haroratining ko’tarilishi"
+    ],
+    "correct": "Tana haroratining ko’tarilishi"
+  },
+  {
+    "question": "Surunkali yurak yetishmovchiligining III darajasida bemorni",
+    "options": [
+      "Bemor doimiy yotoq tartibida boshini baland qilib yotqiziladi",
+      "Bemor ovqatlantirib turiladi",
+      "Yotoq yarani oldini olish chora tadbirlari bajariladi",
+      "Bemorni yengil jismoniy mehnatga jalb qilinadi"
+    ],
+    "correct": "Bemorni yengil jismoniy mehnatga jalb qilinadi"
+  },
+  {
+    "question": "O’spirinlik davri qaysi davrni o’z ichiga oladi?",
+    "options": [
+      "Jinsiy yetilish davridan 30 yoshgacha",
+      "30 - 50 yoshgacha",
+      "40 - 60 yoshgacha",
+      "Maktab yoshidagi bolalar"
+    ],
+    "correct": "Jinsiy yetilish davridan 30 yoshgacha"
+  },
+  {
+    "question": "Yetuklik davri qaysi davrni o’z ichiga oladi?",
+    "options": [
+      "Jinsiy yetilish davridan 30 yoshgacha",
+      "30 - 50 yoshgacha",
+      "40 - 60 yoshgacha",
+      "50 - 60 yoshgacha"
+    ],
+    "correct": "30 - 50 yoshgacha"
+  },
+  {
+    "question": "O’rta yoshlilar davri qaysi davrni o’z ichiga oladi?",
+    "options": [
+      "Jinsiy yetilish davridan 30 yoshgacha",
+      "30 - 50 yoshgacha",
+      "20 - 40 yoshgacha",
+      "50 - 65 yoshgacha"
+    ],
+    "correct": "50 - 65 yoshgacha"
+  },
+  {
+    "question": "Hayot davomiyligi bu…",
+    "options": [
+      "Tug’ilish, so’nish va o’lim",
+      "O’sish, yetuklik, so’nish va o’lim",
+      "O’sish va rivojlanish, tug’ilish",
+      "O’sish, rivojlanish, yetuklik va so’nish"
+    ],
+    "correct": "O’sish, rivojlanish, yetuklik va so’nish"
+  },
+  {
+    "question": "Inson hayoti qanday davrlardan iborat?",
+    "options": [
+      "Tug’ilish, o’sish, rivojlanish, yetuklik, so’nish va o’lim",
+      "Rivojlanish, yetuklik, so’nish va o’lim",
+      "O’sish va rivojlanish, o’lim",
+      "O’sish, rivojlanish, yetuklik va so’nish"
+    ],
+    "correct": "Tug’ilish, o’sish, rivojlanish, yetuklik, so’nish va o’lim"
+  },
+  {
+    "question": "Yetuklik davrini bir nechta yosh kategoriyalarga bo’lish mumkin. Bular:",
+    "options": [
+      "Balog’at yoshi, yetuklik yoshi, o’rta yosh, qarilik oldi yosh",
+      "O’rta yosh, qarilik oldi yoshi",
+      "Yetuklik yoshi, o’rta yosh, qarilik oldi yoshi",
+      "Balog’at yoshi, qarilik oldi yoshi"
+    ],
+    "correct": "Balog’at yoshi, yetuklik yoshi, o’rta yosh, qarilik oldi yosh"
+  },
+  {
+    "question": "Fiziologik, ruhiy va ijtimoiy tez o’sish va rivojlanish qaysi yoshda",
+    "options": [
+      "Balog’at yoshda",
+      "O’rta yoshda",
+      "Yetuklik yoshida",
+      "Qarilik yoshida"
+    ],
+    "correct": "Balog’at yoshda"
+  },
+  {
+    "question": "Jismoniy imkoniyatlar pasayib, to’liq ruhiy va ijtimoiy yuksaklikga erishish",
+    "options": [
+      "Balog’at yoshida",
+      "O’rta yoshda",
+      "Yetuklik yoshida",
+      "Qarilik yoshida"
+    ],
+    "correct": "Yetuklik yoshida"
+  },
+  {
+    "question": "Krizis bu-kuchli bezovtalik holati bo’lib, u qancha muddat davom etadi?",
+    "options": [
+      "4-6 kun",
+      "4-6 yil",
+      "4-6 oy",
+      "4-6 hafta"
+    ],
+    "correct": "4-6 oy"
+  },
+  {
+    "question": "Bemorlarga o’z -o’zini parvarish qilish ko’nikmalari nima uchun",
+    "options": [
+      "Kasallik profilaktikasi uchun",
+      "To’g’ri davolash uchun",
+      "Bemor ahvolini yahshilash uchun",
+      "Bemor salomatligini yahshi holatda saqlash uchun"
+    ],
+    "correct": "Bemor salomatligini yahshi holatda saqlash uchun"
+  },
+  {
+    "question": "Kolit kasalligini klinik belgilari:",
+    "options": [
+      "og‘izda achchiq tam sezish",
+      "qabziyat",
+      "arterial bosimni ko‘tarilishi",
+      "qayt qilish"
+    ],
+    "correct": "qabziyat"
+  },
+  {
+    "question": "Yara kasalligini asosiy belgisiga kirmaydi:",
+    "options": [
+      "qon ketish",
+      "jig’ildon qaynashi",
+      "og’riq",
+      "ich surishi"
+    ],
+    "correct": "ich surishi"
+  },
+  {
+    "question": "“Kofe quyqasi” singari qusish kuzatiladi:",
+    "options": [
+      "pilorostenozda",
+      "penetratsiyada",
+      "qizilo’ngachdan qon ketishida",
+      "me’dadan qon ketganda"
+    ],
+    "correct": "me’dadan qon ketganda"
+  },
+  {
+    "question": "Oshqozon o’smasining asosiy rentgenologik belgisi hisoblanadi:",
+    "options": [
+      "\"nishi\" belgisi",
+      "tonusning oshishi",
+      "to’lish defekti",
+      "oshqozon shaklining o’zgarishi"
+    ],
+    "correct": "to’lish defekti"
+  },
+  {
+    "question": "Me’da yara kasalligining asoratiga kiradi",
+    "options": [
+      ". Surunkali gepatit",
+      "Jigar sirrozi",
+      ". Surunkali xolesistit",
+      "Me’dadan qon ketishi"
+    ],
+    "correct": "Me’dadan qon ketishi"
+  },
+  {
+    "question": "Oligouriya bu…",
+    "options": [
+      "siydikning kam ajralishi",
+      "siydikda yiring bo’lishi",
+      "mutloq ajralmasligi",
+      "ko’p ajralishi"
+    ],
+    "correct": "siydikning kam ajralishi"
+  },
+  {
+    "question": "Qaysi kasalliklar buyrak kasalliklariga kiradi?",
+    "options": [
+      "piyelonefrit, stenokardiya",
+      "gepatit, anemiya",
+      "glomerulonefrit, piyelonefrit, sistit",
+      "glomerulonefrit, hafaqonlik"
+    ],
+    "correct": "glomerulonefrit, piyelonefrit, sistit"
+  },
+  {
+    "question": "Buyrak yallig’langanda bemorning shikoyatlari:",
+    "options": [
+      "chap kurak va yelkaga o’tuvchi yurak sohasidagi og’riq",
+      "ertalab paydo bo’luvchi yuzdagi shishlar, siydik rangining o’zgarishi",
+      "ko’ngil aynishi, zarda qaynashi, ich ketish",
+      "oyoqlardagi shishish, yurak sohasidagi og’riq, yurakning tez urishi"
+    ],
+    "correct": "ertalab paydo bo’luvchi yuzdagi shishlar, siydik rangining o’zgarishi"
+  },
+  {
+    "question": "Buyrak koptokchalarining yallig’lanishi deb nimaga aytiladi",
+    "options": [
+      "Glomerulonefrit",
+      ". Piyelonefrit",
+      ". Sistit",
+      ". Piyelit"
+    ],
+    "correct": "Glomerulonefrit"
+  },
+  {
+    "question": "Siydik haydovchi preparatlarni aniqlang?",
+    "options": [
+      ". Allaxol",
+      "Furasemid",
+      "No-shpa",
+      "Sefazolin"
+    ],
+    "correct": "Furasemid"
+  },
+  {
+    "question": "O’tkir glomerulonefritda kuzatiladigan uchlik simptomni aniqlang",
+    "options": [
+      "gematuriya, shish, gipertoniya",
+      "piuriya, bakteruriya,gipertoniya",
+      "gematuriya,bakteruriya, shishlar",
+      "leykosituriya, silindruriya, shishlar"
+    ],
+    "correct": "gematuriya, shish, gipertoniya"
+  },
+  {
+    "question": "Qaysi buyrak kasalligiga quyidagi belgilar xos: shishlar, A/B ni ko’tarilishi,",
+    "options": [
+      "O’tkir piyelonefrit",
+      "Sistit",
+      "Buyrak tosh kasalligi",
+      "O’tkir glomerulonefrit"
+    ],
+    "correct": "O’tkir glomerulonefrit"
+  },
+  {
+    "question": "Bemor tarvuz iste’mol qilganidan so’ng bel sohasining o’ng tomonida kuchli",
+    "options": [
+      "O’t sanchig’i",
+      ". O’tkir appendisit",
+      "Bachadondan tashqari homiladorlik",
+      "Buyrak sanchig’i"
+    ],
+    "correct": "Buyrak sanchig’i"
+  },
+  {
+    "question": "Bemor 3 yildan buyon surunkali pielonefrit bilan og’riydi. Kasallikni",
+    "options": [
+      "Ko’krak qafasi rentgenografiyasi",
+      "Siydikda qandni aniqlash",
+      "Flyurografiya",
+      "UTT, umumiy siydik va qon tahlillari"
+    ],
+    "correct": "UTT, umumiy siydik va qon tahlillari"
+  },
+  {
+    "question": "Qalqonsimon bez gormonlarini aniqlang",
+    "options": [
+      "Triyodtironin, tiroksin",
+      "Adrenalin, noradrenalin",
+      "Insulin, glyukagon",
+      "tripsin, xemotripsin"
+    ],
+    "correct": "Triyodtironin, tiroksin"
+  },
+  {
+    "question": "Gipofizdan tiroksin sintezi va sekretsiyasini idora etuvchi qaysi gormon",
+    "options": [
+      "Tireotrop",
+      "Gonadotrop",
+      "Kortikotrop",
+      "Adrenokortikotrop"
+    ],
+    "correct": "Tireotrop"
+  },
+  {
+    "question": "Tiroksin sintezi uchun qaysi mikroelement kerak bo’ladi?",
+    "options": [
+      "Yod",
+      "Brom",
+      "Kaltsiy",
+      "Fosfor"
+    ],
+    "correct": "Yod"
+  },
+  {
+    "question": "Qandli diabetda siydikning nisbiy zichligi nima hisobiga baland bo’ladi:",
+    "options": [
+      "Oqsil",
+      "Glyukoza",
+      "Bilirubin",
+      "Leykositlar"
+    ],
+    "correct": "Glyukoza"
+  },
+  {
+    "question": "Qandli diabetning asoratini aniqlang:",
+    "options": [
+      "Giperglikemik koma",
+      "Gipertonik kriz",
+      "O’pka shishi",
+      "O’pkadan qon ketishi"
+    ],
+    "correct": "Giperglikemik koma"
+  },
+  {
+    "question": "Artritbu",
+    "options": [
+      "mushaklarniyalliglanishi",
+      "suyaklarningyalliglanishi",
+      "bo’g’imlarningyalliglanishi",
+      "qon –tomirdevoriningyalliglanishi"
+    ],
+    "correct": "bo’g’imlarningyalliglanishi"
+  },
+  {
+    "question": "Bo’g’imlarningyalliglanishiqandayataladi?",
+    "options": [
+      "artrit",
+      "miozit",
+      "osteomilit",
+      "limfodenit"
+    ],
+    "correct": "artrit"
+  },
+  {
+    "question": "Bo’g’imqontrakturasinima?",
+    "options": [
+      "bo’g’imningshishishi",
+      "bo’g’imningkizarishi",
+      "bo’g’imxarakatiningkiyinlashuvi",
+      "bo’g’imtuzilishininguzgarishi"
+    ],
+    "correct": "bo’g’imtuzilishininguzgarishi"
+  },
+  {
+    "question": "Bo’g’imkasalliklaridakullaniladiganfizioterapevtikdavovositalari:",
+    "options": [
+      "elektrofarez",
+      "shifobaxshbalchik",
+      "vannalar",
+      "xammajavobtugri"
+    ],
+    "correct": "xammajavobtugri"
+  }
+]
