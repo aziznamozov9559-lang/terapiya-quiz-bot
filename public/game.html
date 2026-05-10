@@ -2,7 +2,7 @@
 <html lang="uz">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
 <title>Terapiya Quiz</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
@@ -34,6 +34,8 @@
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
 html,body{
   height:100%;overflow:hidden;
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
   background:var(--bg);color:var(--text);
   font-family:'Nunito',sans-serif;
   -webkit-tap-highlight-color:transparent;
@@ -370,7 +372,7 @@ html,body{
       <span class="heart" id="h3">❤️</span>
     </div>
     <div class="score-pill" id="score-pill">0 ball</div>
-    <div class="q-counter" id="q-counter">1 / 20</div>
+
   </div>
   <div class="timer-wrap">
     <div class="timer-track"><div class="timer-fill" id="timer-fill"></div></div>
@@ -423,7 +425,6 @@ const USER_ID = P.get('userId') || 'demo';
 const MSG_ID  = P.get('msgId')  || '0';
 const MY_NAME = decodeURIComponent(P.get('name') || 'O\'yinchi');
 const BASE    = location.origin;
-const SESSION_Q = 20;
 const TIMER_SEC = 20;
 
 const AVATAR_COLORS = [
@@ -520,7 +521,8 @@ async function init(){
 
 function startGame(){
   score=0;lives=3;qIdx=0;correctN=0;wrongN=0;
-  sessionQ=[...questions].sort(()=>Math.random()-.5).slice(0,SESSION_Q);
+  // 318 ta savolni aralashtirамiz — tugasa qaytadan boshidan keladi
+  sessionQ=[...questions].sort(()=>Math.random()-.5);
   renderHearts();
   document.getElementById('score-pill').textContent='0 ball';
   show('game');
@@ -528,11 +530,15 @@ function startGame(){
 }
 
 function nextQ(){
-  if(qIdx>=sessionQ.length||lives<=0){endGame();return;}
+  if(lives<=0){endGame();return;}
+  // Savollar tugasa qaytadan aralashtirамiz
+  if(qIdx>=sessionQ.length){
+    sessionQ=[...questions].sort(()=>Math.random()-.5);
+    qIdx=0;
+  }
   answered=false;
   const q=sessionQ[qIdx];qIdx++;
   document.getElementById('q-num').textContent=`SAVOL ${qIdx}`;
-  document.getElementById('q-counter').textContent=`${qIdx} / ${sessionQ.length}`;
   document.getElementById('q-text').textContent=q.question;
   const opts=[...q.options].sort(()=>Math.random()-.5);
   const keys=['A','B','C','D'];
@@ -618,7 +624,7 @@ async function endGame(){
   document.getElementById('end-score').textContent=score;
   document.getElementById('st-correct').textContent=correctN;
   document.getElementById('st-wrong').textContent=wrongN;
-  document.getElementById('st-q').textContent=qIdx;
+  document.getElementById('st-q').textContent=correctN+wrongN;
   show('end');
 
   if(CHAT_ID!=='demo'&&score>0){
