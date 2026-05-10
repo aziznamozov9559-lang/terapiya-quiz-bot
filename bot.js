@@ -232,17 +232,26 @@ app.post('/api/scores', async (req, res) => {
   }
 
   // Leaderboard olish
+  let prevTopScore = 0;
   if (cId && mId) {
     const chat  = sessions[cId];
     const users = chat ? Object.keys(chat.users) : [];
     if (users.length) {
-      const raw = await fetchHighScores(cId, mId, users[0]);
-      leaderboard = formatLeaderboard(raw);
+      const rawNow = await fetchHighScores(cId, mId, users[0]);
+      leaderboard  = formatLeaderboard(rawNow);
+      // 1-o'rindagi ball (yangilashdan keyingi)
+      prevTopScore = leaderboard[0]?.score || 0;
     }
   }
 
-  // Guruhga e'lon — faqat yangi rekord bo'lsa
-  if (isNewRecord && cId && scoreInt > prevScore && leaderboard.length) {
+  // Guruhga e'lon — FAQAT guruh umumiy rekordi yangilanganda
+  // Ya'ni bu o'yinchi leaderboard da 1-o'rinda va oldingi top balldan yuqori
+  const myRankNow = leaderboard.findIndex(e => String(e.userId) === String(uId));
+  const isGroupRecord = isNewRecord && cId &&
+                        myRankNow === 0 &&
+                        leaderboard.length > 0 &&
+                        scoreInt > (prevTopScore || 0);
+  if (isGroupRecord) {
     await announceToGroup(cId, name, scoreInt, leaderboard);
   }
 
