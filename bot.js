@@ -204,17 +204,17 @@ app.post('/api/scores', async (req, res) => {
 
   let isNewRecord = false;
   let leaderboard = [];
+  let prevTopScore = 0;
 
-  // Avvalgi ball
-  let prevScore = 0;
+  // setGameScore DAN OLDIN guruhning top ballini saqlab olamiz
   if (cId && mId) {
     const chat = getOrCreateChat(cId);
     if (mId)  chat.messageId  = mId;
     if (name) chat.users[uId] = name;
     try {
-      const prev = await fetchHighScores(cId, mId, uId);
-      const me   = prev.find(e => e.user.id === uId);
-      if (me) prevScore = me.score;
+      const rawBefore = await fetchHighScores(cId, mId, uId);
+      const lbBefore  = formatLeaderboard(rawBefore);
+      prevTopScore    = lbBefore[0]?.score || 0;
     } catch(e) {}
   }
 
@@ -231,16 +231,13 @@ app.post('/api/scores', async (req, res) => {
     isNewRecord = false;
   }
 
-  // Leaderboard olish
-  let prevTopScore = 0;
+  // setGameScore DAN KEYIN yangi leaderboard olamiz
   if (cId && mId) {
     const chat  = sessions[cId];
     const users = chat ? Object.keys(chat.users) : [];
     if (users.length) {
       const rawNow = await fetchHighScores(cId, mId, users[0]);
       leaderboard  = formatLeaderboard(rawNow);
-      // 1-o'rindagi ball (yangilashdan keyingi)
-      prevTopScore = leaderboard[0]?.score || 0;
     }
   }
 
